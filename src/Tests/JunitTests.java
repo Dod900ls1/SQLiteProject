@@ -1,11 +1,6 @@
 package src.Tests;
-
-import java.util.regex.Pattern;
-
 import org.junit.Assert;
 import org.junit.Test;
-
-import src.InitialiseDB;
 
 public class JunitTests {
     @Test
