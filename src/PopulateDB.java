@@ -1,39 +1,78 @@
 package src;
-
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.nio.charset.Charset;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Stream;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 public class PopulateDB {
     public static void main(String[] args) {
-        List<List<String>> records = new ArrayList<>();
-        try (BufferedReader br = new BufferedReader(new FileReader("data/oscars2.csv"))) {
-            String line;
-            while ((line = br.readLine()) != null) {
-                String[] values = line.split(",");
-                records.add(Arrays.asList(values));
-            }
-        }catch(IOException e){
-            System.err.println(e.getMessage());
-        }
+        String csvFilePath = "data/Films.csv";
+        String databaseUrl = "jdbc:sqlite:schemas/schema.db";
 
-        int i = 0;
-        for (List<String> list : records) {
-            for (String str: list) {
-                if (str.equals("ACTOR")) {
-                    System.out.println(str);
+        try (Connection conn = DriverManager.getConnection(databaseUrl)) {
+            // Read CSV file and insert data into Movies table
+            insertMovies(conn, csvFilePath);
+
+            System.out.println("Data inserted successfully!");
+        } catch (SQLException | IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+    private static void insertMovies(Connection conn, String csvFilePath) throws IOException, SQLException {
+        String sql1 = "INSERT INTO Movies (title, release_year, running_time, rating) VALUES (?, ?, ?, ?)";
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
+            // Skip the header line
+            reader.readLine();
+
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] data = line.split(",");
+                if(data.length != 8)
+                    continue;
+        
+                String title = data[0];
+                int releaseYear = Integer.parseInt(data[1]);
+                int runningTime = Integer.parseInt(data[3]);
+                double rating = Double.parseDouble(data[4]);
+
+                try (PreparedStatement pstmt = conn.prepareStatement(sql1)) {
+                    pstmt.setString(1, title);
+                    pstmt.setInt(2, releaseYear);
+                    pstmt.setInt(3, runningTime);
+                    pstmt.setDouble(4, rating);
+                    pstmt.executeUpdate();
                 }
-            }
-            i++;
-            if(i >= 10){
-                break;
             }
         }
     }
+
+
+    private static void insertPersons(Connection conn, String csvFilePath) throws IOException, SQLException {
+        String sql1 = "INSERT INTO Movies (status, name, birthday, gender) VALUES (?, ?, ?, ?)";
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
+            // Skip the header line
+            reader.readLine();
+
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] data = line.split(",");
+                if(data.length != 8)
+                    continue;
+        
+                String name = data[5];
+                int releaseYear = Integer.parseInt(data[1]);
+                int runningTime = Integer.parseInt(data[3]);
+                double rating = Double.parseDouble(data[4]);
+
+            }
+        }
+    }
+
 }
