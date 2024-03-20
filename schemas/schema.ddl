@@ -47,7 +47,7 @@ CREATE TABLE IF NOT EXISTS "Movies_Genres" (
 CREATE TABLE IF NOT EXISTS "Movies" (
     movie_id INTEGER PRIMARY KEY AUTOINCREMENT,
     title TEXT NOT NULL,
-    release_date DATE NOT NULL CHECK (release_date LIKE '____-__-__'),
+    release_year DATE NOT NULL CHECK (release_year LIKE '____'),
     running_time INTEGER NOT NULL,
     rating REAL NOT NULL CHECK (rating >= 0 AND rating <= 10)
 );
