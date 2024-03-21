@@ -19,9 +19,10 @@ public class PopulateDB {
 
         try (Connection conn = DriverManager.getConnection(databaseUrl)) {
             // Read CSV file and insert data into Movies table
-            insertMovies(conn, filmsPath);
-            insertPeople(conn, actorsPath, "actor");
-            insertPeople(conn, directorsPath, "film_director");
+            // insertMovies(conn, filmsPath);
+            // insertPeople(conn, actorsPath, "actor");
+            // insertPeople(conn, directorsPath, "film_director");
+            insertPeopleMovies(conn, actorsPath, filmsPath, "actor");
             System.out.println("Data inserted successfully!");
         } catch (SQLException | IOException e) {
             e.printStackTrace();
@@ -62,7 +63,7 @@ public class PopulateDB {
 
     private static void insertPeople(Connection conn, String csvFilePath, String status)
             throws IOException, SQLException {
-        String queryString = "INSERT INTO Persons (status, name, birthday, gender) VALUES (?, ?, ?, ?)";
+        String queryString = "INSERT INTO Persons (person_id, status, name, birthday, gender) VALUES (?, ?, ?, ?, ?)";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
             // Skip the header line
@@ -74,6 +75,10 @@ public class PopulateDB {
                 if (!findStatus(data, status)) {
                     continue; // If person is not of a correct status - continue
                 }
+                
+                try {
+                    Integer id = Integer.parseInt(data[3]);
+                
                 String gender = extractGender(data);
                 String birthday = data[2];
                 if (birthday.length() != 10) {
@@ -82,46 +87,81 @@ public class PopulateDB {
                 String name = data[0];
 
                 try (PreparedStatement pstmt = conn.prepareStatement(queryString)) {
-                    pstmt.setString(1, status);
-                    pstmt.setString(2, name);
-                    pstmt.setDate(3, Date.valueOf(birthday));
-                    pstmt.setString(4, gender);
+                    pstmt.setInt(1, id);
+                    pstmt.setString(2, status);
+                    pstmt.setString(3, name);
+                    pstmt.setDate(4, Date.valueOf(birthday));
+                    pstmt.setString(5, gender);
+                    pstmt.executeUpdate();
+                }
+            }catch(NumberFormatException e){
+                continue;
+            }
+            }
+        }
+    }
+
+    private static void insertPeopleMovies(Connection conn, String actorsFile, String moviesFile, String status)
+            throws IOException, SQLException {
+        String queryString = "INSERT INTO Movies_Persons (person_id, movie_id) VALUES (?, ?)";
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(actorsFile))) {
+            // Skip the header line
+            reader.readLine();
+
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] data = line.split(",");
+                if(data.length != 12){
+                    continue;
+                }
+                if (!findStatus(data, status)) {
+                    continue; // If person is not of a correct status - continue
+                }
+                if(!nameInMovies(moviesFile, data[0], data[10])){
+                    continue; // Check if name is in movies table
+                }
+                String actorID = data[3];
+                String movieID = data[10];
+                
+                
+                try (PreparedStatement pstmt = conn.prepareStatement(queryString)) {
+                    pstmt.setInt(1, Integer.parseInt(actorID));
+                    pstmt.setInt(2, Integer.parseInt(movieID));
                     pstmt.executeUpdate();
                 }
             }
         }
     }
 
-    private static void insertPeopleMovies(Connection conn, String csvFilePath, String status)
-            throws IOException, SQLException {
-        String queryString = "INSERT INTO Movies_Persons (movie_id, person_, birthday, gender) VALUES (?, ?, ?, ?)";
-
-        try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
-            // Skip the header line
+    private static boolean nameInMovies(String csvFilePath, String name, String movie_id){
+        try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))){
             reader.readLine();
 
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] data = line.split(",");
-                if (!findStatus(data, status)) {
-                    continue; // If person is not of a correct status - continue
+                if(data[8].equals(movie_id)){
+                    return true;
                 }
-                String gender = extractGender(data);
-                String birthday = data[2];
-                if (birthday.length() != 10) {
-                    continue; // TODO Check if birthday is right format
-                }
-                String name = data[0];
-
-                try (PreparedStatement pstmt = conn.prepareStatement(queryString)) {
-                    pstmt.setString(1, status);
-                    pstmt.setString(2, name);
-                    pstmt.setDate(3, Date.valueOf(birthday));
-                    pstmt.setString(4, gender);
-                    pstmt.executeUpdate();
-                }
+                    // if(data[7].contains("|")){
+                    //     String[] x = data[7].split("|");
+                    //     for (String actorName : x) {
+                    //         if(actorName.equals(name) && data[8].equals(movie_id)){
+                    //             return true;
+                    //         }
+                    //     }
+                    // }else{
+                    //     if(name.equals(data[7]) && data[8].equals(movie_id)){
+                    //         return true;
+                    //     }
+                    // }
+                
             }
+        } catch (IOException e) {
+            System.err.println(e.getMessage());
         }
+        return false;
     }
 
     private static String extractGender(String[] csvRecord) {
