@@ -1,6 +1,7 @@
 package src.Tests;
 import org.junit.Assert;
 import org.junit.Test;
+import src.PopulateDB;
 
 public class JunitTests {
     @Test
@@ -27,4 +28,6 @@ public class JunitTests {
         String test = testString.replaceAll(regexString, "");
         Assert.assertEquals(expectedString, test);
     }
+
+ 
 }
