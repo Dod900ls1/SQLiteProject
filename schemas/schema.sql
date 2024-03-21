@@ -16,10 +16,12 @@ CREATE TABLE IF NOT EXISTS "Persons" (
 );
 CREATE TABLE IF NOT EXISTS "Movies_Persons"(
     movie_id INTEGER NOT NULL,
-    person_id INTEGER NOT NULL,
+    person_name INTEGER NOT NULL,
+    dob DATE NOT NULL,
     FOREIGN KEY (movie_id) REFERENCES "Movies"(movie_id),
     FOREIGN KEY (person_id) REFERENCES "Persons"(person_id),
-    PRIMARY KEY (movie_id, person_id)
+    FOREIGN KEY (dob) REFERENCES "Persons"(birthday),
+    PRIMARY KEY (movie_id, person_id, dob)
 );
 CREATE TABLE IF NOT EXISTS "Movies" (
     movie_id INTEGER PRIMARY KEY AUTOINCREMENT,

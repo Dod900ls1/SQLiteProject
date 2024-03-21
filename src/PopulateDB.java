@@ -11,8 +11,8 @@ import java.sql.SQLException;
 
 public class PopulateDB {
     private static String filmsPath = "data/Films.csv";
-    private static String actorsPath = "data/Actors.csv";
-    private static String directorsPath = "data/Directors.csv";
+    private static String actorsPath = "data/Actors2.csv";
+    private static String directorsPath = "data/Directors2.csv";
 
     public static void main(String[] args) {
         String databaseUrl = "jdbc:sqlite:schemas/schema.db";
@@ -63,6 +63,38 @@ public class PopulateDB {
     private static void insertPeople(Connection conn, String csvFilePath, String status)
             throws IOException, SQLException {
         String queryString = "INSERT INTO Persons (status, name, birthday, gender) VALUES (?, ?, ?, ?)";
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
+            // Skip the header line
+            reader.readLine();
+
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] data = line.split(",");
+                if (!findStatus(data, status)) {
+                    continue; // If person is not of a correct status - continue
+                }
+                String gender = extractGender(data);
+                String birthday = data[2];
+                if (birthday.length() != 10) {
+                    continue; // TODO Check if birthday is right format
+                }
+                String name = data[0];
+
+                try (PreparedStatement pstmt = conn.prepareStatement(queryString)) {
+                    pstmt.setString(1, status);
+                    pstmt.setString(2, name);
+                    pstmt.setDate(3, Date.valueOf(birthday));
+                    pstmt.setString(4, gender);
+                    pstmt.executeUpdate();
+                }
+            }
+        }
+    }
+
+    private static void insertPeopleMovies(Connection conn, String csvFilePath, String status)
+            throws IOException, SQLException {
+        String queryString = "INSERT INTO Movies_Persons (movie_id, person_, birthday, gender) VALUES (?, ?, ?, ?)";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
             // Skip the header line
