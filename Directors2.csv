@@ -1,0 +1,761 @@
+name,gender,birthday,occupation,age,height,death,nationality,net_worth,is_alive,id
+bobcat goldthwait,male,1962-05-26,"['film_director', 'actor', 'screenwriter', 'comedian', 'television_director', 'film_producer', 'voice_actor']",61,1.7,,us,1200000,True,0
+dave stewart,male,1952-09-09,"['singer', 'record_producer', 'musician', 'film_score_composer', 'songwriter', 'film_producer', 'screenwriter', 'film_director', 'actor']",71,,,gb,45000000,True,8
+dave stewart,male,1957-02-19,['baseball_player'],67,,,us,10000000,True,8
+barry levinson,male,1942-04-06,"['film_director', 'film_producer', 'actor', 'screenwriter', 'television_producer', 'television_director']",81,1.8,,us,150000000,True,33
+paul rodriguez jr,male,1984-12-31,"['skateboarder', 'entrepreneur', 'actor']",39,1.74,,us,6000000,True,36
+"sammy davis, jr.",male,1925-12-08,"['singer', 'dancer', 'actor', 'musician', 'entertainer']",64,1.65,1990-05-16,us,5000000,False,36
+"eduardo cojuangco, jr.",male,1935-06-10,['businessperson'],88,,,ph,1400000000,True,36
+robert ashenoff jr.,male,,['actor'],,,,,300000,,36
+"ricardo medina, jr.",male,1977-07-02,,46,,,us,30000,True,36
+ernie brown jr,,,,,,,,150000,,36
+donald trump jr.,male,1977-12-31,['businessperson'],46,1.85,,us,300000000,True,36
+"robert f. kennedy, jr.",male,1954-01-17,"['lawyer', 'writer', 'author', 'presenter', 'activist']",70,,,us,50000000,True,36
+"richard yuengling, jr.",,,,,,,,1670000000,,36
+robert coyiuto jr,,,,,,,,1700000000,,36
+"nelson frazier, jr.",male,1971-02-14,"['wrestler', 'actor']",43,2.05,2014-02-18,us,2000000,False,36
+cuba gooding jr,male,1968-01-02,"['actor', 'voice_actor', 'film_producer']",56,1.78,,us,14000000,True,36
+"miguel a. nunez, jr.",male,1964-08-11,"['actor', 'film_producer', 'television_producer', 'screenwriter']",59,,,us,1000000,True,36
+"herbert allen, jr.",male,1940,['businessperson'],,,,us,2500000000,,36
+robert downey jr,male,1965-04-04,"['actor', 'film_producer', 'screenwriter', 'singer-songwriter', 'comedian']",58,1.74,,us,300000000,True,36
+lillo brancato jr,male,1976-03-30,['actor'],47,,,us,10000,True,36
+"tyrone power, jr.",male,1959-01-22,['actor'],65,,,us,3000000,True,36
+ross bagdasarian jr,male,1949-10-25,"['record_producer', 'actor', 'film_producer', 'voice_actor', 'television_producer', 'screenwriter', 'singer']",74,,,us,15000000,True,36
+galen weston jr,male,1972-12-19,['businessperson'],51,,,ca,7600000000,True,36
+al unser jr,male,1962-04-19,['race_car_driver'],61,,,us,20000000,True,36
+cisco rosado jr,,,,,,,,3000000,,36
+"henry louis gates, jr.",male,1950-09-16,"['historian', 'essayist', 'author', 'writer', 'editor', 'literary_critic', 'university_professor', 'documentary_filmmaker']",73,,,us,1000000,True,36
+palmer williams jr,,,,,,,,400000,,36
+desi arnaz jr,male,1953-01-19,"['musician', 'actor', 'drummer']",71,1.8,,us,40000000,True,36
+"mike dunleavy, jr.",male,1980-09-15,['basketball_player'],43,2.06,,us,30000000,True,36
+"ted ginn, jr.",male,1985-04-12,['american_football_player'],38,1.8,,us,13000000,True,36
+"isiah whitlock, jr.",male,1954-09-13,['actor'],69,1.83,,us,92000000,True,36
+"gary matthews, jr.",male,1974-08-25,['baseball_player'],49,,,us,25000000,True,36
+"jim gallagher, jr.",male,1961-03-24,['golfer'],62,1.83,,us,10000000,True,36
+harold ford jr,male,1970-05-11,['politician'],53,1.8,,us,3000000,True,36
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,37
+cameron crowe,male,1957-07-13,"['film_director', 'screenwriter', 'film_producer', 'writer', 'editor', 'actor', 'journalist']",66,1.83,,us,45000000,True,48
+john carroll lynch,male,1963-08-01,['actor'],60,1.91,,us,3000000,True,65
+paul thomas anderson,male,1970-06-26,"['screenwriter', 'film_producer', 'film_director', 'actor']",53,,,us,70000000,True,66
+aaron sorkin,male,1961-06-09,"['screenwriter', 'television_producer', 'playwright', 'script_doctor', 'actor']",62,,,us,90000000,True,67
+ridley scott,male,1937-11-30,"['film_producer', 'film_director', 'production_designer', 'television_producer', 'television_director']",86,1.74,,gb,400000000,True,77
+zak bagans,male,1977-04-05,"['television_producer', 'television_director', 'television_editor', 'writer']",46,1.82,,us,30000000,True,89
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,99
+alex garland,male,1970,"['screenwriter', 'film_producer', 'author', 'novelist', 'writer']",,,,gb,5000000,,106
+brian johnson,male,1947-10-05,"['singer', 'singer-songwriter', 'film_score_composer', 'actor', 'lyricist']",76,1.65,,gb,90000000,True,109
+rian johnson,male,1973-12-17,"['screenwriter', 'film_director', 'film_producer', 'film_editor']",50,1.68,,us,20000000,True,109
+guillermo del toro,male,1964-10-09,"['film_director', 'screenwriter', 'film_producer', 'actor', 'novelist', 'television_director', 'television_producer', 'voice_actor']",59,1.78,,mx,30000000,True,119
+michael moore,male,1954-04-23,"['film_director', 'film_producer', 'screenwriter', 'writer', 'actor', 'critic', 'presenter']",69,1.82,,us,30000000,True,123
+xavier dolan,male,1989-03-20,"['screenwriter', 'film_director', 'actor', 'film_producer', 'film_editor', 'voice_actor']",35,1.69,,ca,4000000,True,137
+guillermo del toro,male,1964-10-09,"['film_director', 'screenwriter', 'film_producer', 'actor', 'novelist', 'television_director', 'television_producer', 'voice_actor']",59,1.78,,mx,30000000,True,143
+carlos saldanha,male,1965-01-24,"['film_director', 'film_producer', 'animator', 'voice_actor', 'screenwriter']",59,,,br,10000000,True,144
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,157
+james franco,male,1978-04-19,"['actor', 'author', 'film_director', 'screenwriter', 'film_producer', 'teacher', 'model', 'film_editor', 'poet']",45,1.8,,us,30000000,True,158
+armando iannucci,male,1963-11-28,"['radio_producer', 'comedian', 'writer', 'screenwriter', 'satirist', 'television_director', 'television_producer', 'film_producer']",60,,,gb,8000000,True,170
+bo burnham,male,1990-08-21,"['actor', 'singer-songwriter', 'comedian', 'rapper', 'musician', 'screenwriter']",33,1.96,,us,4000000,True,180
+stanley tucci,male,1960-11-11,"['actor', 'screenwriter', 'television_producer', 'film_producer', 'film_director', 'writer', 'voice_actor']",63,1.72,,us,25000000,True,195
+greta gerwig,female,1983-08-04,"['actor', 'screenwriter', 'playwright', 'voice_actor', 'film_director']",40,1.73,,us,4000000,True,199
+zack snyder,male,1966-03-01,"['film_director', 'film_producer', 'screenwriter']",58,1.7,,us,60000000,True,204
+ari sandel,male,,"['film_director', 'film_producer']",,,,us,1000000,,217
+lee unkrich,male,1967-08-08,"['film_director', 'film_editor', 'screenwriter', 'voice_actor']",56,,,us,2500000,True,221
+kenneth branagh,male,1960-12-10,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_producer', 'voice_actor']",63,1.77,,gb,60000000,True,222
+francis lee,male,1944-04-29,['football_player'],79,,,gb,18000000,True,228
+dan gilroy,male,1959-06-24,['screenwriter'],64,1.8,,us,10000000,True,231
+noah baumbach,male,1969-09-03,"['screenwriter', 'film_director', 'actor', 'film_producer']",54,1.75,,us,16000000,True,236
+david ayer,male,1968-01-18,"['screenwriter', 'film_director', 'film_producer', 'actor']",56,1.89,,us,20000000,True,242
+taika waititi,male,1975-08-16,"['film_director', 'screenwriter', 'comedian', 'actor', 'photographer']",48,,,nz,3000000,True,243
+rob reiner,male,1947-03-06,"['film_director', 'actor', 'film_producer', 'screenwriter', 'activist']",77,1.88,,us,200000000,True,246
+richard linklater,male,1960-07-30,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'television_director', 'cinematographer']",63,1.75,,us,12000000,True,250
+angela robinson,female,1971-02-14,"['film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer']",53,,,us,3000000,True,255
+simon curtis,male,1960-03-11,"['film_producer', 'television_director', 'television_producer', 'film_director']",64,,,gb,20000000,True,256
+denis villeneuve,male,1967-10-03,"['film_director', 'screenwriter']",56,,,ca,16000000,True,260
+martin campbell,male,1943-10-24,"['film_director', 'television_director', 'film_producer', 'television_producer', 'actor']",80,,,nz,20000000,True,262
+danny strong,male,1974-06-06,"['actor', 'screenwriter', 'film_producer']",49,1.57,,us,5000000,True,264
+mike white,male,1970-06-28,"['screenwriter', 'actor', 'television_producer', 'film_producer', 'film_director', 'television_director']",53,1.75,,us,4000000,True,270
+mike whiteside,,,,,,,,1000000,,270
+andy serkis,male,1964-04-20,"['actor', 'voice_actor', 'author', 'film_director', 'film_producer']",59,1.73,,gb,28000000,True,271
+stephen frears,male,1941-06-20,"['film_director', 'film_producer', 'actor', 'television_director', 'television_producer']",82,1.7,,gb,10000000,True,278
+darren aronofsky,male,1969-02-12,"['film_director', 'film_producer', 'screenwriter', 'actor']",55,1.83,,us,25000000,True,279
+christopher nolan,male,1970-07-30,"['screenwriter', 'film_producer', 'film_director', 'cinematographer', 'editor', 'film_editor']",53,1.8,,us,250000000,True,281
+doug liman,male,1965-07-24,"['television_producer', 'film_producer', 'film_director', 'television_director', 'cinematographer']",58,1.87,,us,50000000,True,282
+kathryn bigelow,female,1951-11-27,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_director']",72,1.82,,us,40000000,True,285
+matthew vaughn,male,1971-03-07,"['film_director', 'film_producer', 'screenwriter', 'television_producer']",53,1.83,,gb,30000000,True,286
+justin chon,male,1981-05-29,"['actor', 'entrepreneur', 'film_director']",42,1.67,,us,5000000,True,290
+steve buscemi,male,1957-12-13,"['actor', 'film_producer', 'television_director', 'film_director', 'screenwriter', 'voice_actor', 'firefighter']",66,1.75,,us,35000000,True,293
+michael damian,male,1962-04-26,"['actor', 'film_director', 'film_producer', 'screenwriter', 'musician']",61,1.82,,us,3000000,True,295
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,305
+luc besson,male,1959-03-18,"['screenwriter', 'film_producer', 'film_director', 'television_producer', 'actor']",65,1.73,,fr,100000000,True,307
+douglas barr,male,1949-05-01,"['actor', 'film_director', 'screenwriter']",74,,,us,5000000,True,322
+mark williams,male,1959-08-22,"['comedian', 'actor', 'presenter', 'screenwriter']",64,1.85,,gb,6000000,True,326
+sofia coppola,female,1971-05-14,"['actor', 'film_producer', 'film_director', 'screenwriter', 'television_producer']",52,1.64,,us,40000000,True,339
+edgar wright,male,1974-04-18,"['film_director', 'television_director', 'screenwriter', 'actor', 'film_producer', 'editor', 'television_producer', 'tv_editor']",49,,,gb,10000000,True,341
+barry levinson,male,1942-04-06,"['film_director', 'film_producer', 'actor', 'screenwriter', 'television_producer', 'television_director']",81,1.8,,us,150000000,True,343
+colin trevorrow,male,1976-09-13,"['screenwriter', 'film_director', 'film_producer']",47,,,us,5000000,True,346
+terrence malick,male,1943-11-30,"['screenwriter', 'film_director', 'film_producer', 'actor', 'journalist', 'author']",80,1.7,,us,15000000,True,350
+michael showalter,male,1970-06-17,"['actor', 'comedian', 'television_producer', 'television_director', 'screenwriter', 'film_producer', 'film_director']",53,1.8,,us,3000000,True,357
+nick broomfield,male,1948-01-30,"['film_director', 'film_producer', 'film_editor', 'screenwriter', 'filmmaker', 'television_director', 'television_producer']",76,,,gb,3000000,True,359
+patty jenkins,female,1971-07-24,"['screenwriter', 'film_director', 'television_director']",52,,,us,25000000,True,360
+sean foley,male,1964-11-21,"['actor', 'theatre_director', 'comedian', 'writer']",59,,,gb,4000000,True,361
+james gunn,male,1970-08-05,"['screenwriter', 'film_producer', 'actor', 'film_director', 'television_producer', 'television_director', 'novelist', 'musician', 'cartoonist']",53,1.82,,us,50000000,True,377
+doug liman,male,1965-07-24,"['television_producer', 'film_producer', 'film_director', 'television_director', 'cinematographer']",58,1.87,,us,50000000,True,379
+ridley scott,male,1937-11-30,"['film_producer', 'film_director', 'production_designer', 'television_producer', 'television_director']",86,1.74,,gb,400000000,True,383
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,387
+zach braff,male,1975-04-06,"['actor', 'film_director', 'voice_actor', 'television_producer', 'television_director', 'screenwriter', 'film_producer']",48,1.83,,us,20000000,True,388
+rupert sanders,male,1971-03-16,['film_director'],53,1.91,,gb,15000000,True,393
+marc webb,male,1974-08-31,"['film_director', 'music_video_director', 'television_producer', 'film_editor']",49,,,us,18000000,True,394
+ken loach,male,1936-06-17,"['film_director', 'television_director', 'screenwriter', 'television_producer']",87,,,gb,5000000,True,396
+brian goodman,male,1963,"['actor', 'film_director', 'screenwriter', 'television_director']",,,,us,5000000,,407
+byron maxwell,male,1988-02-23,['american_football_player'],36,1.85,,us,1500000,True,415
+dax shepard,male,1975-01-02,"['actor', 'comedian', 'screenwriter', 'film_director', 'voice_actor']",49,1.88,,us,40000000,True,421
+victor salva,male,1958-03-29,"['film_director', 'screenwriter', 'film_producer']",65,,,us,100000,True,432
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,435
+danny boyle,male,1956-10-20,"['film_producer', 'film_director', 'screenwriter', 'television_director', 'television_producer', 'theatre_director']",67,1.82,,gb,60000000,True,437
+james mangold,male,1963-12-16,"['screenwriter', 'film_director', 'television_producer', 'television_director']",60,1.82,,us,20000000,True,439
+bill condon,male,1955-10-22,"['screenwriter', 'film_director', 'film_producer', 'writer', 'actor']",68,1.65,,us,5000000,True,441
+jordan peele,male,1979-02-21,"['comedian', 'actor', 'screenwriter', 'television_producer', 'musician', 'lyricist']",45,1.75,,us,50000000,True,447
+rob sitch,male,1962-03-17,"['physician', 'screenwriter', 'actor', 'comedian', 'television_producer', 'television_director', 'film_producer', 'film_director']",62,,,au,16000000,True,450
+stephen gaghan,male,1965-05-06,"['screenwriter', 'film_director', 'television_producer']",58,,,us,14000000,True,456
+damien chazelle,male,1985-01-19,"['cinematographer', 'screenwriter', 'film_producer', 'film_director', 'film_editor']",39,,,us,10000000,True,461
+jim jarmusch,male,1953-01-22,"['film_director', 'film_producer', 'screenwriter', 'actor', 'film_editor', 'cinematographer', 'film_score_composer']",71,1.88,,us,5000000,True,472
+peter bergman,male,1953-06-11,['actor'],70,,,us,10000000,True,475
+peter berg,male,1962-03-11,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer']",62,1.85,,us,40000000,True,475
+martin scorsese,male,1942-11-17,"['film_producer', 'actor', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'film_editor', 'film_historian']",81,1.63,,us,150000000,True,477
+mike mills,male,1958-12-17,"['record_producer', 'musician', 'songwriter', 'organist', 'keyboard_player', 'bassist', 'composer', 'multi-instrumentalist']",65,,,us,60000000,True,478
+ben affleck,male,1972-08-15,"['actor', 'film_director', 'screenwriter', 'film_producer', 'television_producer', 'professional_poker_player', 'businessperson']",51,1.92,,us,150000000,True,480
+john madden,male,1936-04-10,"['american_football_player', 'american_football_coach']",87,1.93,,us,200000000,True,482
+denzel washington,male,1954-12-28,"['actor', 'film_producer', 'film_director', 'spokesperson', 'voice_actor']",69,1.85,,us,250000000,True,484
+david yates,male,1963-11-30,"['film_producer', 'television_producer', 'film_director', 'television_director']",60,,,gb,22000000,True,487
+ken loach,male,1936-06-17,"['film_director', 'television_director', 'screenwriter', 'television_producer']",87,,,gb,5000000,True,489
+scott derrickson,male,,"['film_director', 'screenwriter', 'film_producer']",,,,us,8000000,,493
+robert zemeckis,male,1952-05-14,"['film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer', 'pilot']",71,1.83,,us,60000000,True,495
+tom ford,male,1961-08-27,"['fashion_designer', 'film_director', 'screenwriter', 'designer', 'actor', 'film_producer']",62,1.83,,us,500000000,True,496
+mel gibson,male,1956-01-03,"['actor', 'screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director', 'voice_actor']",68,1.77,,us,425000000,True,499
+jim jarmusch,male,1953-01-22,"['film_director', 'film_producer', 'screenwriter', 'actor', 'film_editor', 'cinematographer', 'film_score_composer']",71,1.88,,us,5000000,True,503
+denis villeneuve,male,1967-10-03,"['film_director', 'screenwriter']",56,,,ca,16000000,True,506
+ang lee,male,1954-10-23,"['film_director', 'film_producer', 'screenwriter']",69,1.75,,us,32000000,True,509
+wang leehom,male,1976-05-17,"['singer-songwriter', 'model', 'musician', 'record_producer', 'actor', 'composer', 'film_director', 'music_arranger']",47,1.78,,us,100000000,True,509
+ewan mcgregor,male,1971-03-31,"['actor', 'screenwriter', 'television_producer', 'singer', 'voice_actor']",52,1.79,,gb,25000000,True,511
+mike mitchell,,,,,,,,12000000,,514
+edward zwick,male,1952-10-08,"['businessperson', 'film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'television_director']",71,1.7,,us,20000000,True,518
+ron howard,male,1954-03-01,"['actor', 'film_producer', 'film_director', 'television_producer', 'screenwriter', 'voice_actor', 'television_director']",70,1.75,,us,200000000,True,525
+noel clarke,male,1975-12-06,"['screenwriter', 'film_producer', 'actor', 'film_director']",48,1.75,,gb,3000000,True,528
+peter bergman,male,1953-06-11,['actor'],70,,,us,10000000,True,529
+peter berg,male,1962-03-11,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer']",62,1.85,,us,40000000,True,529
+martin kemp,male,1961-10-10,"['actor', 'bassist', 'musician', 'singer-songwriter', 'presenter', 'film_producer', 'film_director']",62,1.83,,gb,4000000,True,530
+nate parker,male,1979-11-18,"['actor', 'film_producer', 'musician', 'coach']",44,1.75,,us,3000000,True,532
+tati westbrook,,,,,,,,12000000,,538
+ricky gervais,male,1961-06-25,"['author', 'comedian', 'actor', 'television_director', 'television_producer', 'screenwriter', 'writer', 'film_director', 'film_producer', 'disc_jockey']",62,1.73,,gb,140000000,True,542
+oliver stone,male,1946-09-15,"['screenwriter', 'film_producer', 'film_director', 'actor', 'television_producer', 'cinematographer', 'film_editor', 'author', 'television_director', 'soldier']",77,1.83,,us,70000000,True,543
+john krasinski,male,1979-10-20,"['actor', 'television_producer', 'television_director', 'voice_actor', 'film_producer', 'film_director', 'screenwriter']",44,1.91,,us,80000000,True,545
+antoine fuqua,male,1966-01-19,"['film_director', 'film_producer', 'music_video_director']",58,,,us,25000000,True,546
+werner herzog,male,1942-09-05,"['film_director', 'screenwriter', 'film_producer', 'actor', 'opera_director', 'television_director', 'voice_actor', 'film_editor', 'author']",81,1.85,,de,20000000,True,547
+tim burton,male,1958-08-25,"['film_producer', 'film_director', 'screenwriter', 'artist', 'animator', 'television_producer', 'actor', 'television_director', 'poet', 'visual_artist']",65,1.82,,us,100000000,True,548
+clint eastwood,male,1930-05-31,"['actor', 'film_director', 'film_producer', 'politician', 'composer', 'pianist', 'film_score_composer', 'television_producer', 'businessperson', 'investor']",93,1.93,,us,375000000,True,549
+david ayer,male,1968-01-18,"['screenwriter', 'film_director', 'film_producer', 'actor']",56,1.89,,us,20000000,True,554
+rob reiner,male,1947-03-06,"['film_director', 'actor', 'film_producer', 'screenwriter', 'activist']",77,1.88,,us,200000000,True,556
+mike birbiglia,male,1978-06-20,"['comedian', 'screenwriter', 'actor', 'film_director']",45,,,us,4000000,True,557
+michael damian,male,1962-04-26,"['actor', 'film_director', 'film_producer', 'screenwriter', 'musician']",61,1.82,,us,3000000,True,561
+paul greengrass,male,1955-08-13,"['screenwriter', 'film_director', 'television_producer', 'journalist', 'television_director', 'film_producer']",68,,,gb,20000000,True,562
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,565
+todd phillips,male,1970-12-20,"['film_director', 'screenwriter', 'film_producer', 'actor']",53,1.83,,us,200000000,True,572
+andrew stanton,male,1965-12-03,"['film_director', 'film_producer', 'screenwriter', 'voice_actor']",58,,,us,40000000,True,579
+bruce beresford-redman,male,,['television_producer'],,,,us,400000,,581
+justin lin,male,,"['film_director', 'film_producer', 'screenwriter', 'television_producer', 'film_editor', 'television_director', 'cinematographer']",,,,us,50000000,,585
+matt ross,male,1970-01-03,"['actor', 'film_director', 'screenwriter']",54,1.83,,us,6000000,True,588
+taika waititi,male,1975-08-16,"['film_director', 'screenwriter', 'comedian', 'actor', 'photographer']",48,,,nz,3000000,True,601
+david yates,male,1963-11-30,"['film_producer', 'television_producer', 'film_director', 'television_director']",60,,,gb,22000000,True,605
+keira knightley,female,1985-03-26,"['actor', 'model', 'voice_actor']",38,1.7,,gb,80000000,True,607
+nicolas winding refn,male,1970-09-29,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'actor']",53,,,dk,10000000,True,608
+noah baumbach,male,1969-09-03,"['screenwriter', 'film_director', 'actor', 'film_producer']",54,1.75,,us,16000000,True,609
+ben jones,male,1941-08-30,"['politician', 'actor', 'businessperson', 'playwright', 'essayist']",82,,,us,500000,True,615
+gary rossington,male,1951-12-04,['guitarist'],72,,,us,40000000,True,616
+gary ross,male,1956-11-03,"['screenwriter', 'film_director', 'actor', 'film_producer', 'writer']",67,,,us,10000000,True,616
+rawson marshall thurber,male,1975-02-09,"['film_director', 'actor', 'screenwriter', 'film_producer']",49,,,us,5000000,True,617
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,619
+duncan jones,male,1971-05-30,"['film_director', 'screenwriter', 'film_producer']",52,,,gb,50000000,True,620
+bryan singer,male,1965-09-17,"['television_producer', 'film_producer', 'film_director', 'screenwriter', 'actor']",58,1.78,,us,100000000,True,621
+jay roach,male,1957-06-14,"['film_director', 'film_producer', 'screenwriter', 'cinematographer']",66,1.84,,us,100000000,True,622
+akiva schaffer,male,1977-12-01,"['film_director', 'actor', 'musician', 'songwriter', 'film_editor', 'television_producer', 'screenwriter', 'television_director', 'tv_editor', 'film_producer']",46,,,us,7000000,True,628
+stephen frears,male,1941-06-20,"['film_director', 'film_producer', 'actor', 'television_director', 'television_producer']",82,1.7,,gb,10000000,True,630
+anthony russo,male,1970,"['television_director', 'television_producer']",,,,us,20000000,,633
+james wan,male,1977-02-26,"['film_director', 'film_producer', 'screenwriter', 'film_editor']",47,1.68,,my,70000000,True,634
+gus van sant,male,1952-07-24,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'painter', 'photographer', 'musician', 'author', 'television_producer', 'actor']",71,1.75,,us,50000000,True,635
+matt brown,,,,,,,,1000000,,646
+jodie foster,female,1962-11-19,"['actor', 'musician', 'film_director', 'film_producer', 'voice_actor', 'television_director']",61,1.61,,us,100000000,True,649
+shane black,male,1961-12-16,"['actor', 'screenwriter', 'film_director', 'film_producer']",62,,,us,16000000,True,652
+jon favreau,male,1966-10-19,"['actor', 'film_producer', 'comedian', 'television_director', 'film_director', 'voice_actor', 'screenwriter', 'television_producer']",57,1.83,,us,100000000,True,653
+guillermo del toro,male,1964-10-09,"['film_director', 'screenwriter', 'film_producer', 'actor', 'novelist', 'television_director', 'television_producer', 'voice_actor']",59,1.78,,mx,30000000,True,660
+rick famuyiwa,male,1973-06-18,"['screenwriter', 'film_director']",50,1.93,,us,1500000,True,666
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,672
+james cameron,male,1954-08-16,"['film_director', 'film_producer', 'screenwriter', 'inventor', 'actor', 'film_editor', 'explorer', 'environmentalist', 'television_producer']",69,1.87,,ca,700000000,True,674
+robert carlyle,male,1961-04-14,['actor'],62,1.73,,gb,10000000,True,675
+don cheadle,male,1964-11-29,"['actor', 'film_producer', 'television_producer', 'author', 'voice_actor', 'film_director', 'screenwriter']",59,1.73,,us,35000000,True,685
+zack snyder,male,1966-03-01,"['film_director', 'film_producer', 'screenwriter']",58,1.7,,us,60000000,True,686
+tom hooper,male,1972-10-01,"['film_director', 'television_director', 'film_producer', 'screenwriter']",51,,,au,20000000,True,687
+richard linklater,male,1960-07-30,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'television_director', 'cinematographer']",63,1.75,,us,12000000,True,689
+renny harlin,male,1959-03-15,"['film_director', 'actor', 'film_producer', 'television_director', 'screenwriter', 'cinematographer']",65,1.93,,fi,10000000,True,690
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,693
+kenny ortega,male,1950-04-18,"['film_producer', 'television_director', 'choreographer', 'actor', 'television_producer', 'film_director']",73,,,us,14000000,True,694
+kirk jones,male,1973-11-03,"['actor', 'rapper', 'film_director', 'film_producer', 'screenwriter', 'voice_actor', 'film_score_composer']",50,1.77,,us,1000000,True,698
+tim blake nelson,male,1964-05-11,"['film_director', 'actor', 'screenwriter', 'playwright', 'film_producer', 'singer']",59,1.65,,us,5000000,True,700
+leigh whannell,male,1977-01-17,"['screenwriter', 'actor', 'film_producer', 'voice_actor']",47,1.7,,au,55000000,True,709
+gavin hood,male,1963-05-12,"['actor', 'screenwriter', 'film_director', 'television_producer']",60,,,za,25000000,True,712
+kirk jones,male,1973-11-03,"['actor', 'rapper', 'film_director', 'film_producer', 'screenwriter', 'voice_actor', 'film_score_composer']",50,1.77,,us,1000000,True,717
+dexter fletcher,male,1966-01-31,"['actor', 'film_director', 'screenwriter']",58,1.68,,gb,6000000,True,718
+spike lee,male,1957-03-20,"['screenwriter', 'actor', 'film_director', 'film_producer', 'television_director', 'television_producer', 'film_editor', 'teacher']",67,1.68,,us,50000000,True,720
+walter hill,male,1942-01-10,"['film_director', 'film_producer', 'screenwriter', 'television_producer', 'television_director']",82,,,us,20000000,True,724
+joel schumacher,male,1939-08-29,"['screenwriter', 'film_director', 'film_producer', 'costume_designer', 'television_director', 'television_producer', 'writer']",80,1.91,2020-06-22,us,80000000,False,725
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,726
+louis leterrier,,,,,,,,14000000,,728
+michael showalter,male,1970-06-17,"['actor', 'comedian', 'television_producer', 'television_director', 'screenwriter', 'film_producer', 'film_director']",53,1.8,,us,3000000,True,729
+robert altman,male,1925-02-20,"['film_director', 'film_producer', 'screenwriter', 'writer', 'television_director', 'television_producer', 'actor', 'film_editor']",81,1.83,2006-11-20,us,60000000,False,731
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,737
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,738
+ethan coen,male,1957-09-21,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'television_producer', 'actor']",66,1.72,,us,60000000,True,741
+sylvester stallone,male,1946-07-06,"['screenwriter', 'actor', 'film_director', 'television_producer', 'film_producer', 'voice_actor']",77,1.77,,us,400000000,True,744
+chris smith,,,,,,,,200000,,747
+neil labute,male,1963-03-19,"['screenwriter', 'film_director', 'playwright', 'film_producer', 'television_producer']",61,1.83,,us,4000000,True,758
+sofia coppola,female,1971-05-14,"['actor', 'film_producer', 'film_director', 'screenwriter', 'television_producer']",52,1.64,,us,40000000,True,759
+john madden,male,1936-04-10,"['american_football_player', 'american_football_coach']",87,1.93,,us,200000000,True,761
+stephen frears,male,1941-06-20,"['film_director', 'film_producer', 'actor', 'television_director', 'television_producer']",82,1.7,,gb,10000000,True,769
+michael moore,male,1954-04-23,"['film_director', 'film_producer', 'screenwriter', 'writer', 'actor', 'critic', 'presenter']",69,1.82,,us,30000000,True,774
+james mangold,male,1963-12-16,"['screenwriter', 'film_director', 'television_producer', 'television_director']",60,1.82,,us,20000000,True,780
+alex winter,male,1965-07-17,"['film_director', 'actor', 'screenwriter', 'television_director', 'film_producer']",58,,,us,8000000,True,783
+ang lee,male,1954-10-23,"['film_director', 'film_producer', 'screenwriter']",69,1.75,,us,32000000,True,799
+wang leehom,male,1976-05-17,"['singer-songwriter', 'model', 'musician', 'record_producer', 'actor', 'composer', 'film_director', 'music_arranger']",47,1.78,,us,100000000,True,799
+barry levinson,male,1942-04-06,"['film_director', 'film_producer', 'actor', 'screenwriter', 'television_producer', 'television_director']",81,1.8,,us,150000000,True,811
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,825
+spike lee,male,1957-03-20,"['screenwriter', 'actor', 'film_director', 'film_producer', 'television_director', 'television_producer', 'film_editor', 'teacher']",67,1.68,,us,50000000,True,826
+quentin tarantino,male,1963-03-27,"['screenwriter', 'film_director', 'actor', 'film_producer', 'writer', 'television_director', 'voice_actor']",60,1.85,,us,120000000,True,829
+adam mckay,male,1968-04-17,"['screenwriter', 'actor', 'film_director', 'comedian', 'television_producer', 'television_director', 'film_producer']",55,1.96,,us,40000000,True,834
+marc forster,male,1969-11-30,"['film_director', 'screenwriter', 'film_producer']",54,,,de,30000000,True,846
+ben stiller,male,1965-11-30,"['comedian', 'actor', 'screenwriter', 'film_director', 'film_producer', 'television_director', 'television_producer', 'voice_actor']",58,1.7,,us,200000000,True,848
+ron howard,male,1954-03-01,"['actor', 'film_producer', 'film_director', 'television_producer', 'screenwriter', 'voice_actor', 'television_director']",70,1.75,,us,200000000,True,849
+ken loach,male,1936-06-17,"['film_director', 'television_director', 'screenwriter', 'television_producer']",87,,,gb,5000000,True,850
+tom hooper,male,1972-10-01,"['film_director', 'television_director', 'film_producer', 'screenwriter']",51,,,au,20000000,True,855
+james gunn,male,1970-08-05,"['screenwriter', 'film_producer', 'actor', 'film_director', 'television_producer', 'television_director', 'novelist', 'musician', 'cartoonist']",53,1.82,,us,50000000,True,863
+ryan coogler,male,1986-05-23,"['film_director', 'screenwriter']",37,,,us,10000000,True,864
+billy ray cyrus,male,1961-08-25,"['actor', 'singer-songwriter', 'guitarist', 'musician', 'television_producer', 'philanthropist']",62,1.83,,us,20000000,True,869
+christopher guest,male,1948-02-05,"['screenwriter', 'composer', 'musician', 'film_director', 'actor', 'comedian', 'television_producer', 'television_director', 'film_score_composer', 'film_producer']",76,1.8,,us,60000000,True,870
+rob zombie,male,1965-01-12,"['musician', 'film_director', 'screenwriter', 'composer', 'film_producer', 'actor', 'songwriter', 'music_producer', 'singer', 'programmer']",59,1.78,,us,50000000,True,872
+jay roach,male,1957-06-14,"['film_director', 'film_producer', 'screenwriter', 'cinematographer']",66,1.84,,us,100000000,True,878
+danny boyle,male,1956-10-20,"['film_producer', 'film_director', 'screenwriter', 'television_director', 'television_producer', 'theatre_director']",67,1.82,,gb,60000000,True,879
+colin hanks,male,1977-11-24,"['actor', 'voice_actor', 'film_producer', 'film_director', 'writer']",46,1.86,,us,14000000,True,885
+stephen frears,male,1941-06-20,"['film_director', 'film_producer', 'actor', 'television_director', 'television_producer']",82,1.7,,gb,10000000,True,897
+clint eastwood,male,1930-05-31,"['actor', 'film_director', 'film_producer', 'politician', 'composer', 'pianist', 'film_score_composer', 'television_producer', 'businessperson', 'investor']",93,1.93,,us,375000000,True,900
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,910
+sam mendes,male,1965-08-01,"['film_producer', 'film_director', 'television_director', 'television_producer', 'theatre_director']",58,1.78,,gb,30000000,True,915
+james vanderbilt,male,1975-11-17,"['screenwriter', 'film_producer']",48,,,us,20000000,True,917
+patrick swayze,male,1952-08-18,"['actor', 'dancer', 'singer-songwriter']",57,1.78,2009-09-14,us,40000000,False,922
+chris evans,male,1981-06-13,"['actor', 'voice_actor', 'film_director', 'film_producer']",42,1.84,,us,80000000,True,929
+chris evans,male,1966-04-01,"['television_producer', 'radio_producer', 'radio_personality', 'businessperson', 'presenter', 'actor', 'voice_actor']",57,1.88,,gb,120000000,True,929
+nancy meyers,female,1949-12-08,"['screenwriter', 'film_director', 'film_producer', 'writer']",74,1.55,,us,10000000,True,937
+roman polanski,male,1933-08-18,"['film_director', 'actor', 'screenwriter', 'film_producer', 'writer']",90,1.65,,fr,50000000,True,940
+john wells,male,1956-05-28,"['film_producer', 'television_producer', 'screenwriter', 'television_director', 'film_director']",67,,,us,300000000,True,941
+marielle heller,,,,,,,,5000000,,942
+ridley scott,male,1937-11-30,"['film_producer', 'film_director', 'production_designer', 'television_producer', 'television_director']",86,1.74,,gb,400000000,True,944
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,946
+genndy tartakovsky,male,1970-01-17,"['animator', 'television_producer', 'animation_director', 'television_director', 'screenwriter', 'film_director']",54,,,us,10000000,True,947
+denis villeneuve,male,1967-10-03,"['film_director', 'screenwriter']",56,,,ca,16000000,True,951
+robert zemeckis,male,1952-05-14,"['film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer', 'pilot']",71,1.83,,us,60000000,True,952
+baltasar kormakur,male,1966-02-27,"['film_director', 'actor', 'film_producer', 'theatre_director', 'screenwriter']",58,,,is,16000000,True,955
+alan parker,male,1944-02-14,"['screenwriter', 'film_director', 'film_producer', 'actor', 'copywriter', 'television_director']",80,,,gb,20000000,True,961
+edward zwick,male,1952-10-08,"['businessperson', 'film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'television_director']",71,1.7,,us,20000000,True,962
+max joseph,male,,"['film_editor', 'film_director', 'film_producer']",,,,us,250000,,964
+alex kendrick,male,1970,"['film_director', 'actor', 'screenwriter', 'pastor', 'film_editor', 'film_producer', 'novelist']",,,,us,8000000,,972
+noah baumbach,male,1969-09-03,"['screenwriter', 'film_director', 'actor', 'film_producer']",54,1.75,,us,16000000,True,973
+terry jones,male,1942-02-01,"['screenwriter', 'writer', 'comedian', 'presenter', 'actor', 'film_director', 'poet', 'novelist', 'historian', 'commentator']",77,1.73,2020-01-21,gb,15000000,False,979
+peyton reed,male,1964-07-03,"['film_director', 'television_director', 'actor', 'screenwriter']",59,,,us,5000000,True,991
+seth macfarlane,male,1973-10-26,"['actor', 'composer', 'animator', 'television_producer', 'voice_actor', 'comedian', 'singer', 'screenwriter', 'film_director', 'television_director']",50,1.78,,us,300000000,True,994
+michael damian,male,1962-04-26,"['actor', 'film_director', 'film_producer', 'screenwriter', 'musician']",61,1.82,,us,3000000,True,997
+bill condon,male,1955-10-22,"['screenwriter', 'film_director', 'film_producer', 'writer', 'actor']",68,1.65,,us,5000000,True,1004
+judd apatow,male,1967-12-06,"['film_producer', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'actor', 'voice_actor', 'comedian']",56,1.74,,us,150000000,True,1005
+joel edgerton,male,1974-06-23,"['actor', 'screenwriter', 'film_producer', 'film_director', 'writer']",49,1.8,,au,3000000,True,1007
+john francis daley,male,1985-07-20,"['actor', 'screenwriter', 'musician', 'film_director']",38,1.83,,us,5000000,True,1009
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,1010
+tarsem singh,male,1961-05-26,['film_director'],62,,,in,10000000,True,1011
+joss whedon,male,1964-06-23,"['screenwriter', 'television_director', 'television_producer', 'film_producer', 'film_director', 'cartoonist', 'novelist', 'actor', 'writer', 'comic_book_creator']",59,1.78,,us,100000000,True,1017
+doug ellin,male,1968-04-06,"['screenwriter', 'television_producer', 'writer', 'film_director', 'television_director', 'actor', 'film_producer']",55,,,us,40000000,True,1018
+brad bird,male,1957-09-24,"['actor', 'film_director', 'screenwriter', 'animator', 'writer', 'voice_actor', 'film_producer', 'television_director']",66,,,us,40000000,True,1020
+colin trevorrow,male,1976-09-13,"['screenwriter', 'film_director', 'film_producer']",47,,,us,5000000,True,1023
+brad peyton,male,1980-09-16,"['film_director', 'writer']",43,,,ca,5000000,True,1024
+alan taylor,male,1959,"['film_director', 'television_director', 'television_producer', 'screenwriter']",,,,us,5000000,,1025
+antoine fuqua,male,1966-01-19,"['film_director', 'film_producer', 'music_video_director']",58,,,us,25000000,True,1027
+christopher mcquarrie,male,1968,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'songwriter', 'actor']",,,,us,30000000,,1032
+ridley scott,male,1937-11-30,"['film_producer', 'film_director', 'production_designer', 'television_producer', 'television_director']",86,1.74,,gb,400000000,True,1034
+brett ratner,male,1969-03-28,"['film_director', 'film_producer', 'television_producer', 'music_video_director', 'actor', 'television_director']",54,1.73,,us,85000000,True,1037
+pete docter,male,1968-10-09,"['film_director', 'animator', 'screenwriter', 'film_producer', 'voice_actor', 'writer']",55,1.94,,us,5000000,True,1038
+david fincher,male,1962-08-28,"['film_director', 'film_producer', 'music_video_director', 'television_producer', 'actor', 'television_director', 'screenwriter']",61,1.84,,us,75000000,True,1042
+kathryn bigelow,female,1951-11-27,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_director']",72,1.82,,us,40000000,True,1043
+jon favreau,male,1966-10-19,"['actor', 'film_producer', 'comedian', 'television_director', 'film_director', 'voice_actor', 'screenwriter', 'television_producer']",57,1.83,,us,100000000,True,1044
+kevin smith,male,1970-08-02,"['actor', 'film_producer', 'film_director', 'film_editor', 'comedian', 'comic_book_creator', 'radio_personality', 'screenwriter', 'television_producer', 'author']",53,1.75,,us,25000000,True,1045
+francis ford coppola,male,1939-04-07,"['screenwriter', 'film_producer', 'film_director', 'television_director', 'television_producer', 'actor', 'film_editor']",84,1.82,,us,400000000,True,1046
+jason reitman,male,1977-10-19,"['film_director', 'actor', 'screenwriter', 'film_producer', 'businessperson', 'television_director']",46,1.8,,ca,12000000,True,1050
+peyton reed,male,1964-07-03,"['film_director', 'television_director', 'actor', 'screenwriter']",59,,,us,5000000,True,1052
+bryan singer,male,1965-09-17,"['television_producer', 'film_producer', 'film_director', 'screenwriter', 'actor']",58,1.78,,us,100000000,True,1053
+brett ratner,male,1969-03-28,"['film_director', 'film_producer', 'television_producer', 'music_video_director', 'actor', 'television_director']",54,1.73,,us,85000000,True,1054
+gavin hood,male,1963-05-12,"['actor', 'screenwriter', 'film_director', 'television_producer']",60,,,za,25000000,True,1055
+matthew vaughn,male,1971-03-07,"['film_director', 'film_producer', 'screenwriter', 'television_producer']",53,1.83,,gb,30000000,True,1056
+bryan singer,male,1965-09-17,"['television_producer', 'film_producer', 'film_director', 'screenwriter', 'actor']",58,1.78,,us,100000000,True,1057
+bryan singer,male,1965-09-17,"['television_producer', 'film_producer', 'film_director', 'screenwriter', 'actor']",58,1.78,,us,100000000,True,1058
+bobcat goldthwait,male,1962-05-26,"['film_director', 'actor', 'screenwriter', 'comedian', 'television_director', 'film_producer', 'voice_actor']",61,1.7,,us,1200000,True,1064
+marc forster,male,1969-11-30,"['film_director', 'screenwriter', 'film_producer']",54,,,de,30000000,True,1065
+oliver stone,male,1946-09-15,"['screenwriter', 'film_producer', 'film_director', 'actor', 'television_producer', 'cinematographer', 'film_editor', 'author', 'television_director', 'soldier']",77,1.83,,us,70000000,True,1066
+simon curtis,male,1960-03-11,"['film_producer', 'television_director', 'television_producer', 'film_director']",64,,,gb,20000000,True,1070
+zach braff,male,1975-04-06,"['actor', 'film_director', 'voice_actor', 'television_producer', 'television_director', 'screenwriter', 'film_producer']",48,1.83,,us,20000000,True,1073
+akiva goldsman,male,1962-07-07,"['screenwriter', 'film_producer', 'actor']",61,,,us,50000000,True,1074
+john woo,male,1946-05-01,"['film_producer', 'screenwriter', 'actor', 'film_director', 'film_editor']",77,1.64,,cn,60000000,True,1077
+roland emmerich,male,1955-11-10,"['film_director', 'film_producer', 'screenwriter', 'television_producer']",68,,,de,200000000,True,1083
+noah baumbach,male,1969-09-03,"['screenwriter', 'film_director', 'actor', 'film_producer']",54,1.75,,us,16000000,True,1085
+spike jonze,male,1969-10-22,"['film_director', 'film_producer', 'actor', 'screenwriter', 'cinematographer', 'music_video_director']",54,1.7,,us,50000000,True,1086
+nancy meyers,female,1949-12-08,"['screenwriter', 'film_director', 'film_producer', 'writer']",74,1.55,,us,10000000,True,1089
+jemaine clement,male,1974-01-10,"['actor', 'musician', 'comedian', 'screenwriter', 'television_producer', 'composer', 'lyricist', 'voice_actor', 'multi-instrumentalist']",50,1.85,,nz,2000000,True,1090
+david wain,male,1969-08-01,"['actor', 'comedian', 'screenwriter', 'film_director', 'television_director', 'television_producer', 'film_producer', 'film_editor', 'writer']",54,1.8,,us,1000000,True,1097
+rawson marshall thurber,male,1975-02-09,"['film_director', 'actor', 'screenwriter', 'film_producer']",49,,,us,5000000,True,1098
+cameron crowe,male,1957-07-13,"['film_director', 'screenwriter', 'film_producer', 'writer', 'editor', 'actor', 'journalist']",66,1.83,,us,45000000,True,1107
+jay mcgraw,male,1979-09-12,"['writer', 'talk_show_host', 'television_producer']",44,,,us,30000000,True,1108
+tim mcgraw,male,1967-05-01,"['actor', 'singer', 'songwriter', 'guitarist']",56,1.78,,us,165000000,True,1108
+aaron mcgruder,male,1974-05-29,"['writer', 'cartoonist', 'television_producer', 'screenwriter', 'voice_actor', 'public_speaker', 'film_score_composer']",49,,,us,10000000,True,1108
+jeremy mcgrath,male,1971-11-19,['actor'],52,,,us,6000000,True,1108
+tracy mcgrady,male,1979-05-24,['basketball_player'],44,2.03,,us,75000000,True,1108
+bernard mcguirk,male,1957-10-26,,66,,,us,3000000,True,1108
+carol mcgiffin,female,1960-02-18,"['presenter', 'radio_personality']",64,1.75,,gb,9000000,True,1108
+paul mcguinness,male,1951-06-17,"['talent_manager', 'theatrical_producer', 'film_producer', 'businessperson']",72,,,de,150000000,True,1108
+katie mcgrath,female,1983-10-24,"['actor', 'journalist', 'makeup_artist', 'model']",40,1.65,,ie,4000000,True,1108
+joseph mcginty nichol,male,1968-08-09,"['film_director', 'film_producer', 'record_producer', 'television_producer', 'songwriter', 'screenwriter']",55,1.88,,us,60000000,True,1108
+jordan mcgraw,,,,,,,,20000000,,1108
+tom mcgowan,male,1959-07-26,['actor'],64,,,us,2000000,True,1108
+paul mcgowan,,,,,,,,48000000,,1108
+ted mcginley,male,1958-05-30,['actor'],65,1.82,,us,5000000,True,1108
+bob mcgrath,male,1932-06-13,"['actor', 'writer']",91,,,us,2000000,True,1108
+ehren mcghehey,male,1976-11-29,"['actor', 'stunt_performer', 'entrepreneur']",47,,,us,3500000,True,1108
+conor mcgregor,male,1988-07-14,['mixed_martial_artist'],35,1.75,,ie,120000000,True,1108
+scott mcgillivray,male,1978-04-07,"['carpentry', 'actor', 'presenter']",45,1.83,,ca,4000000,True,1108
+paddy mcguinness,,1878,,,,,,10000000,,1108
+patrick mcgovern,male,1937-08-11,['businessperson'],76,,2014-03-19,us,5700000000,False,1108
+john c. mcginley,male,1959-08-03,"['actor', 'film_producer', 'comedian', 'author', 'voice_actor', 'entrepreneur', 'screenwriter', 'spokesperson']",64,1.88,,us,10000000,True,1108
+javale mcgee,male,1988-01-19,['basketball_player'],36,2.13,,us,14000000,True,1108
+kelly mcgillis,female,1957-07-09,['actor'],66,1.78,,us,4000000,True,1108
+william mcgirt,,,,,,,,11000000,,1108
+blake mcgrath,male,1983-11-21,"['dancer', 'choreographer', 'actor', 'model']",40,,,us,2000000,True,1108
+paul mcgann,male,1959-11-14,"['actor', 'voice_actor']",64,1.74,,gb,7000000,True,1108
+mike mcgill,male,1964,"['skateboarder', 'actor']",,,,us,10000000,,1108
+fred mcgriff,male,1963-10-31,['baseball_player'],60,,,us,30000000,True,1108
+mark mcgrath,male,1968-03-15,"['singer', 'presenter', 'musician', 'actor', 'composer']",56,1.85,,us,6000000,True,1108
+paul mcgillion,male,1969-01-05,['actor'],55,1.78,,gb,3000000,True,1108
+zack snyder,male,1966-03-01,"['film_director', 'film_producer', 'screenwriter']",58,1.7,,us,60000000,True,1110
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,1114
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,1115
+timur bekmambetov,male,1961-06-25,"['film_director', 'screenwriter', 'film_producer']",62,1.68,,kz,30000000,True,1117
+andrew stanton,male,1965-12-03,"['film_director', 'film_producer', 'screenwriter', 'voice_actor']",58,,,us,40000000,True,1118
+oliver stone,male,1946-09-15,"['screenwriter', 'film_producer', 'film_director', 'actor', 'television_producer', 'cinematographer', 'film_editor', 'author', 'television_director', 'soldier']",77,1.83,,us,70000000,True,1119
+rob thomas,male,1972-02-14,"['singer', 'singer-songwriter', 'guitarist', 'songwriter', 'music_artist']",52,1.75,,us,17000000,True,1126
+cameron crowe,male,1957-07-13,"['film_director', 'screenwriter', 'film_producer', 'writer', 'editor', 'actor', 'journalist']",66,1.83,,us,45000000,True,1128
+stephen sommers,male,1962-03-20,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director', 'actor']",62,1.88,,us,20000000,True,1130
+bryan singer,male,1965-09-17,"['television_producer', 'film_producer', 'film_director', 'screenwriter', 'actor']",58,1.78,,us,100000000,True,1131
+nicolas winding refn,male,1970-09-29,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'actor']",53,,,dk,10000000,True,1132
+jason reitman,male,1977-10-19,"['film_director', 'actor', 'screenwriter', 'film_producer', 'businessperson', 'television_director']",46,1.8,,ca,12000000,True,1137
+pete docter,male,1968-10-09,"['film_director', 'animator', 'screenwriter', 'film_producer', 'voice_actor', 'writer']",55,1.94,,us,5000000,True,1138
+tony scott,male,1944-06-21,"['film_producer', 'film_director', 'television_producer', 'television_director', 'cinematographer', 'actor', 'screenwriter', 'film_editor']",68,1.69,2012-08-19,gb,200000000,False,1141
+louis leterrier,,,,,,,,14000000,,1142
+paul greengrass,male,1955-08-13,"['screenwriter', 'film_director', 'television_producer', 'journalist', 'television_director', 'film_producer']",68,,,gb,20000000,True,1144
+adrian lyne,male,1941-03-04,"['film_producer', 'film_director', 'screenwriter']",83,,,gb,20000000,True,1146
+patrick tatopoulos,male,,"['producer', 'writer', 'film_director', 'designer']",,,,us,4000000,,1148
+len wiseman,male,1973-03-04,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director']",51,1.82,,us,20000000,True,1149
+len wiseman,male,1973-03-04,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director']",51,1.82,,us,20000000,True,1151
+angelina jolie,female,1975-06-04,"['actor', 'model', 'voice_actor', 'film_director', 'screenwriter', 'film_producer', 'writer', 'author']",48,1.69,,us,120000000,True,1156
+paddy considine,male,1973-09-05,"['actor', 'film_director', 'screenwriter', 'musician', 'photographer']",50,1.76,,gb,4000000,True,1159
+david harewood,male,1965-12-08,"['actor', 'voice_actor']",58,1.83,,gb,5000000,True,1163
+ethan coen,male,1957-09-21,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'television_producer', 'actor']",66,1.72,,us,60000000,True,1168
+wolfgang petersen,male,1941-03-14,"['film_director', 'film_producer', 'screenwriter', 'television_director']",83,1.8,,de,20000000,True,1169
+ben stiller,male,1965-11-30,"['comedian', 'actor', 'screenwriter', 'film_director', 'film_producer', 'television_director', 'television_producer', 'voice_actor']",58,1.7,,us,200000000,True,1171
+louis leterrier,,,,,,,,14000000,,1180
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,1181
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,1182
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,1183
+wally pfister,male,1961-07-08,"['cinematographer', 'film_director']",62,,,us,4000000,True,1184
+antoine fuqua,male,1966-01-19,"['film_director', 'film_producer', 'music_video_director']",58,,,us,25000000,True,1186
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,1187
+lee unkrich,male,1967-08-08,"['film_director', 'film_editor', 'screenwriter', 'voice_actor']",56,,,us,2500000,True,1190
+brett ratner,male,1969-03-28,"['film_director', 'film_producer', 'television_producer', 'music_video_director', 'actor', 'television_director']",54,1.73,,us,85000000,True,1191
+len wiseman,male,1973-03-04,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director']",51,1.82,,us,20000000,True,1193
+chris rock,male,1965-02-07,"['comedian', 'screenwriter', 'actor', 'film_director', 'film_producer', 'television_producer', 'voice_actor', 'presenter']",59,1.78,,us,60000000,True,1194
+penn and teller,,,,,,,,400000000,,1203
+miles teller,male,1987-02-20,['actor'],37,1.83,,us,10000000,True,1203
+teller,male,1948-02-14,"['actor', 'screenwriter', 'film_producer', 'magician', 'illusionist', 'painter', 'comedian', 'writer', 'television_producer', 'film_director']",76,1.75,,us,200000000,True,1203
+alan taylor,male,1959,"['film_director', 'television_director', 'television_producer', 'screenwriter']",,,,us,5000000,,1209
+kenneth branagh,male,1960-12-10,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_producer', 'voice_actor']",63,1.77,,gb,60000000,True,1210
+jay mcgraw,male,1979-09-12,"['writer', 'talk_show_host', 'television_producer']",44,,,us,30000000,True,1212
+tim mcgraw,male,1967-05-01,"['actor', 'singer', 'songwriter', 'guitarist']",56,1.78,,us,165000000,True,1212
+aaron mcgruder,male,1974-05-29,"['writer', 'cartoonist', 'television_producer', 'screenwriter', 'voice_actor', 'public_speaker', 'film_score_composer']",49,,,us,10000000,True,1212
+jeremy mcgrath,male,1971-11-19,['actor'],52,,,us,6000000,True,1212
+tracy mcgrady,male,1979-05-24,['basketball_player'],44,2.03,,us,75000000,True,1212
+bernard mcguirk,male,1957-10-26,,66,,,us,3000000,True,1212
+carol mcgiffin,female,1960-02-18,"['presenter', 'radio_personality']",64,1.75,,gb,9000000,True,1212
+paul mcguinness,male,1951-06-17,"['talent_manager', 'theatrical_producer', 'film_producer', 'businessperson']",72,,,de,150000000,True,1212
+katie mcgrath,female,1983-10-24,"['actor', 'journalist', 'makeup_artist', 'model']",40,1.65,,ie,4000000,True,1212
+joseph mcginty nichol,male,1968-08-09,"['film_director', 'film_producer', 'record_producer', 'television_producer', 'songwriter', 'screenwriter']",55,1.88,,us,60000000,True,1212
+jordan mcgraw,,,,,,,,20000000,,1212
+tom mcgowan,male,1959-07-26,['actor'],64,,,us,2000000,True,1212
+paul mcgowan,,,,,,,,48000000,,1212
+ted mcginley,male,1958-05-30,['actor'],65,1.82,,us,5000000,True,1212
+bob mcgrath,male,1932-06-13,"['actor', 'writer']",91,,,us,2000000,True,1212
+ehren mcghehey,male,1976-11-29,"['actor', 'stunt_performer', 'entrepreneur']",47,,,us,3500000,True,1212
+conor mcgregor,male,1988-07-14,['mixed_martial_artist'],35,1.75,,ie,120000000,True,1212
+scott mcgillivray,male,1978-04-07,"['carpentry', 'actor', 'presenter']",45,1.83,,ca,4000000,True,1212
+paddy mcguinness,,1878,,,,,,10000000,,1212
+patrick mcgovern,male,1937-08-11,['businessperson'],76,,2014-03-19,us,5700000000,False,1212
+john c. mcginley,male,1959-08-03,"['actor', 'film_producer', 'comedian', 'author', 'voice_actor', 'entrepreneur', 'screenwriter', 'spokesperson']",64,1.88,,us,10000000,True,1212
+javale mcgee,male,1988-01-19,['basketball_player'],36,2.13,,us,14000000,True,1212
+kelly mcgillis,female,1957-07-09,['actor'],66,1.78,,us,4000000,True,1212
+william mcgirt,,,,,,,,11000000,,1212
+blake mcgrath,male,1983-11-21,"['dancer', 'choreographer', 'actor', 'model']",40,,,us,2000000,True,1212
+paul mcgann,male,1959-11-14,"['actor', 'voice_actor']",64,1.74,,gb,7000000,True,1212
+mike mcgill,male,1964,"['skateboarder', 'actor']",,,,us,10000000,,1212
+fred mcgriff,male,1963-10-31,['baseball_player'],60,,,us,30000000,True,1212
+mark mcgrath,male,1968-03-15,"['singer', 'presenter', 'musician', 'actor', 'composer']",56,1.85,,us,6000000,True,1212
+paul mcgillion,male,1969-01-05,['actor'],55,1.78,,gb,3000000,True,1212
+shawn levy,male,1968-07-23,"['actor', 'film_director', 'film_producer', 'television_producer', 'television_director']",55,,,us,50000000,True,1213
+evan goldberg,male,1982,"['screenwriter', 'film_producer', 'film_director', 'actor']",,,,ca,40000000,,1214
+judd apatow,male,1967-12-06,"['film_producer', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'actor', 'voice_actor', 'comedian']",56,1.74,,us,150000000,True,1216
+paul haggis,male,1953-03-10,"['screenwriter', 'film_director', 'film_producer', 'television_director', 'television_producer']",71,1.83,,ca,60000000,True,1217
+tim story,male,1970-03-13,"['film_director', 'film_producer', 'screenwriter', 'film_editor', 'television_producer', 'television_director', 'music_video_director']",54,,,us,15000000,True,1218
+paul thomas anderson,male,1970-06-26,"['screenwriter', 'film_producer', 'film_director', 'actor']",53,,,us,70000000,True,1221
+terry gilliam,male,1940-11-22,"['actor', 'animator', 'film_director', 'film_producer', 'screenwriter']",83,1.75,,gb,50000000,True,1222
+darren aronofsky,male,1969-02-12,"['film_director', 'film_producer', 'screenwriter', 'actor']",55,1.83,,us,25000000,True,1223
+edgar wright,male,1974-04-18,"['film_director', 'television_director', 'screenwriter', 'actor', 'film_producer', 'editor', 'television_producer', 'tv_editor']",49,,,gb,10000000,True,1224
+james mangold,male,1963-12-16,"['screenwriter', 'film_director', 'television_producer', 'television_director']",60,1.82,,us,20000000,True,1228
+martin scorsese,male,1942-11-17,"['film_producer', 'actor', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'film_editor', 'film_historian']",81,1.63,,us,150000000,True,1229
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1233
+nat faxon,male,1975,"['actor', 'screenwriter', 'comedian', 'voice_actor']",,,,us,6000000,,1234
+peter weir,male,1944-08-21,"['film_director', 'film_producer', 'screenwriter', 'actor']",79,,,au,15000000,True,1235
+russell crowe,male,1964-04-07,"['actor', 'singer', 'musician', 'film_producer', 'film_director']",59,1.82,,nz,100000000,True,1238
+terrence malick,male,1943-11-30,"['screenwriter', 'film_director', 'film_producer', 'actor', 'journalist', 'author']",80,1.7,,us,15000000,True,1251
+louis leterrier,,,,,,,,14000000,,1252
+ben affleck,male,1972-08-15,"['actor', 'film_director', 'screenwriter', 'film_producer', 'television_producer', 'professional_poker_player', 'businessperson']",51,1.92,,us,150000000,True,1253
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,1256
+tony scott,male,1944-06-21,"['film_producer', 'film_director', 'television_producer', 'television_director', 'cinematographer', 'actor', 'screenwriter', 'film_editor']",68,1.69,2012-08-19,gb,200000000,False,1258
+josh gordon,male,1991-04-13,['american_football_player'],32,1.91,,us,3000000,True,1260
+tommy lee jones,male,1946-09-15,"['film_director', 'actor', 'film_producer', 'screenwriter', 'voice_actor']",77,1.83,,us,90000000,True,1262
+jon turteltaub,male,1963-08-08,"['film_producer', 'film_director', 'television_producer', 'television_director']",60,,,us,80000000,True,1266
+david fincher,male,1962-08-28,"['film_director', 'film_producer', 'music_video_director', 'television_producer', 'actor', 'television_director', 'screenwriter']",61,1.84,,us,75000000,True,1267
+craig johnson,male,,"['film_director', 'screenwriter']",,,,,10000000,,1269
+ben stiller,male,1965-11-30,"['comedian', 'actor', 'screenwriter', 'film_director', 'film_producer', 'television_director', 'television_producer', 'voice_actor']",58,1.7,,us,200000000,True,1274
+john madden,male,1936-04-10,"['american_football_player', 'american_football_coach']",87,1.93,,us,200000000,True,1275
+frank oz,male,1944-05-25,"['puppeteer', 'film_director', 'voice_actor', 'actor', 'film_producer']",79,1.88,,us,80000000,True,1277
+peter bergman,male,1953-06-11,['actor'],70,,,us,10000000,True,1280
+peter berg,male,1962-03-11,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer']",62,1.85,,us,40000000,True,1280
+wes anderson,male,1969-05-01,"['screenwriter', 'film_director', 'film_producer', 'actor', 'voice_actor']",54,1.85,,us,50000000,True,1282
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1288
+howard deutch,male,1950-09-14,"['film_director', 'television_director']",73,,,us,25000000,True,1292
+bart freundlich,male,1970-01-17,"['screenwriter', 'film_director', 'film_producer', 'television_director']",54,,,us,5000000,True,1294
+anne fletcher,female,1966-05-01,"['film_director', 'choreographer', 'actor']",57,,,us,15000000,True,1301
+christopher nolan,male,1970-07-30,"['screenwriter', 'film_producer', 'film_director', 'cinematographer', 'editor', 'film_editor']",53,1.8,,us,250000000,True,1303
+robert zemeckis,male,1952-05-14,"['film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer', 'pilot']",71,1.83,,us,60000000,True,1304
+roman polanski,male,1933-08-18,"['film_director', 'actor', 'screenwriter', 'film_producer', 'writer']",90,1.65,,fr,50000000,True,1308
+joel schumacher,male,1939-08-29,"['screenwriter', 'film_director', 'film_producer', 'costume_designer', 'television_director', 'television_producer', 'writer']",80,1.91,2020-06-22,us,80000000,False,1310
+wolfgang petersen,male,1941-03-14,"['film_director', 'film_producer', 'screenwriter', 'television_director']",83,1.8,,de,20000000,True,1312
+roland emmerich,male,1955-11-10,"['film_director', 'film_producer', 'screenwriter', 'television_producer']",68,,,de,200000000,True,1314
+mel gibson,male,1956-01-03,"['actor', 'screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director', 'voice_actor']",68,1.77,,us,425000000,True,1315
+nick cassavetes,male,1959-05-21,"['actor', 'film_director', 'screenwriter']",64,1.98,,us,40000000,True,1317
+adam mckay,male,1968-04-17,"['screenwriter', 'actor', 'film_director', 'comedian', 'television_producer', 'television_director', 'film_producer']",55,1.96,,us,40000000,True,1318
+joel schumacher,male,1939-08-29,"['screenwriter', 'film_director', 'film_producer', 'costume_designer', 'television_director', 'television_producer', 'writer']",80,1.91,2020-06-22,us,80000000,False,1322
+nick cassavetes,male,1959-05-21,"['actor', 'film_director', 'screenwriter']",64,1.98,,us,40000000,True,1324
+ryan murphy,male,1965-11-30,"['screenwriter', 'film_producer', 'television_director', 'television_producer', 'film_director', 'writer']",58,,,us,150000000,True,1325
+paul haggis,male,1953-03-10,"['screenwriter', 'film_director', 'film_producer', 'television_director', 'television_producer']",71,1.83,,ca,60000000,True,1326
+terrence malick,male,1943-11-30,"['screenwriter', 'film_director', 'film_producer', 'actor', 'journalist', 'author']",80,1.7,,us,15000000,True,1327
+stephen sommers,male,1962-03-20,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director', 'actor']",62,1.88,,us,20000000,True,1330
+george clooney,male,1961-05-06,"['actor', 'film_producer', 'film_director', 'television_producer', 'television_director', 'voice_actor', 'screenwriter']",62,1.8,,us,500000000,True,1333
+frank darabont,male,1959-01-28,"['film_director', 'screenwriter', 'film_producer', 'television_director', 'actor', 'television_producer']",65,,,us,15000000,True,1334
+grant heslov,male,1963-05-15,"['screenwriter', 'actor', 'film_producer', 'film_director', 'television_director', 'television_producer']",60,1.75,,us,20000000,True,1336
+simon west,male,1961,"['film_director', 'film_producer', 'television_producer', 'film_editor', 'music_video_director']",,,,gb,15000000,,1337
+lana wachowski,female,1965-06-21,"['film_director', 'screenwriter', 'film_producer', 'writer', 'comic_book_creator']",58,,,us,125000000,True,1339
+lana wachowski,female,1965-06-21,"['film_director', 'screenwriter', 'film_producer', 'writer', 'comic_book_creator']",58,,,us,125000000,True,1340
+paul thomas anderson,male,1970-06-26,"['screenwriter', 'film_producer', 'film_director', 'actor']",53,,,us,70000000,True,1341
+frank darabont,male,1959-01-28,"['film_director', 'screenwriter', 'film_producer', 'television_director', 'actor', 'television_producer']",65,,,us,15000000,True,1345
+rob reiner,male,1947-03-06,"['film_director', 'actor', 'film_producer', 'screenwriter', 'activist']",77,1.88,,us,200000000,True,1347
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1351
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1353
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1354
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1355
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1361
+erik van looy,male,1962-04-26,,61,,,be,10000000,True,1362
+wes anderson,male,1969-05-01,"['screenwriter', 'film_director', 'film_producer', 'actor', 'voice_actor']",54,1.85,,us,50000000,True,1366
+phil lord,male,1975-07-12,"['film_director', 'actor', 'screenwriter', 'film_producer', 'voice_actor']",48,,,us,50000000,True,1367
+john glenn,male,1921-07-18,"['politician', 'astronaut', 'united_states_naval_aviator']",102,,,us,5000000,True,1370
+edward zwick,male,1952-10-08,"['businessperson', 'film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'television_director']",71,1.7,,us,20000000,True,1372
+tom hooper,male,1972-10-01,"['film_director', 'television_director', 'film_producer', 'screenwriter']",51,,,au,20000000,True,1376
+peter bergman,male,1953-06-11,['actor'],70,,,us,10000000,True,1378
+peter berg,male,1962-03-11,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer']",62,1.85,,us,40000000,True,1378
+harald zwart,male,1965-07-01,"['film_director', 'film_producer', 'screenwriter', 'actor', 'television_director']",58,1.72,,no,4000000,True,1380
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,1384
+ralph fiennes,male,1962-12-22,"['actor', 'voice_actor', 'film_producer', 'film_director']",61,1.83,,gb,30000000,True,1386
+ricky gervais,male,1961-06-25,"['author', 'comedian', 'actor', 'television_director', 'television_producer', 'screenwriter', 'writer', 'film_director', 'film_producer', 'disc_jockey']",62,1.73,,gb,140000000,True,1387
+evan goldberg,male,1982,"['screenwriter', 'film_producer', 'film_director', 'actor']",,,,ca,40000000,,1388
+sydney pollack,male,1934-07-01,"['film_producer', 'film_director', 'actor', 'television_producer', 'television_director', 'voice_actor']",73,1.82,2008-05-26,us,16000000,False,1389
+shawn levy,male,1968-07-23,"['actor', 'film_director', 'film_producer', 'television_producer', 'television_director']",55,,,us,50000000,True,1390
+brad bird,male,1957-09-24,"['actor', 'film_director', 'screenwriter', 'animator', 'writer', 'voice_actor', 'film_producer', 'television_director']",66,,,us,40000000,True,1393
+louis leterrier,,,,,,,,14000000,,1394
+george clooney,male,1961-05-06,"['actor', 'film_producer', 'film_director', 'television_producer', 'television_director', 'voice_actor', 'screenwriter']",62,1.8,,us,500000000,True,1402
+kathryn bigelow,female,1951-11-27,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_director']",72,1.82,,us,40000000,True,1404
+gary rossington,male,1951-12-04,['guitarist'],72,,,us,40000000,True,1408
+gary ross,male,1956-11-03,"['screenwriter', 'film_director', 'actor', 'film_producer', 'writer']",67,,,us,10000000,True,1408
+tommy lee jones,male,1946-09-15,"['film_director', 'actor', 'film_producer', 'screenwriter', 'voice_actor']",77,1.83,,us,90000000,True,1410
+nancy meyers,female,1949-12-08,"['screenwriter', 'film_director', 'film_producer', 'writer']",74,1.55,,us,10000000,True,1411
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1412
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1413
+peter jackson,male,1961-10-31,"['screenwriter', 'film_producer', 'film_director', 'actor']",62,1.69,,nz,500000000,True,1414
+paul feig,male,1962-09-17,"['actor', 'film_director', 'television_producer', 'television_director', 'screenwriter', 'author']",61,1.83,,us,20000000,True,1418
+todd phillips,male,1970-12-20,"['film_director', 'screenwriter', 'film_producer', 'actor']",53,1.83,,us,200000000,True,1421
+todd phillips,male,1970-12-20,"['film_director', 'screenwriter', 'film_producer', 'actor']",53,1.83,,us,200000000,True,1422
+joe carnahan,male,1969-05-09,"['film_director', 'screenwriter', 'film_producer', 'writer', 'actor']",54,1.83,,us,13000000,True,1425
+bill paxton,male,1955-05-17,"['film_director', 'actor', 'film_producer']",61,1.8,2017-02-25,us,40000000,False,1426
+baz luhrmann,male,1962-09-17,"['screenwriter', 'film_director', 'film_producer', 'actor']",61,,,au,20000000,True,1428
+denzel washington,male,1954-12-28,"['actor', 'film_producer', 'film_director', 'spokesperson', 'voice_actor']",69,1.85,,us,250000000,True,1429
+wes anderson,male,1969-05-01,"['screenwriter', 'film_director', 'film_producer', 'actor', 'voice_actor']",54,1.85,,us,50000000,True,1431
+robert de niro,male,1943-08-17,"['actor', 'film_producer', 'film_director', 'voice_actor', 'television_producer']",80,1.77,,us,500000000,True,1432
+david fincher,male,1962-08-28,"['film_director', 'film_producer', 'music_video_director', 'television_producer', 'actor', 'television_director', 'screenwriter']",61,1.84,,us,75000000,True,1436
+sam raimi,male,1959-10-23,"['film_director', 'screenwriter', 'actor', 'television_producer', 'film_producer']",64,1.8,,us,60000000,True,1438
+roman polanski,male,1933-08-18,"['film_director', 'actor', 'screenwriter', 'film_producer', 'writer']",90,1.65,,fr,50000000,True,1440
+scott walker,,,,,,,,300000,,1442
+darren aronofsky,male,1969-02-12,"['film_director', 'film_producer', 'screenwriter', 'actor']",55,1.83,,us,25000000,True,1443
+edward burns,male,1968-01-29,"['actor', 'film_director', 'film_producer', 'screenwriter', 'television_director', 'television_producer']",56,1.85,,us,40000000,True,1448
+bill condon,male,1955-10-22,"['screenwriter', 'film_director', 'film_producer', 'writer', 'actor']",68,1.65,,us,5000000,True,1452
+justin lin,male,,"['film_director', 'film_producer', 'screenwriter', 'television_producer', 'film_editor', 'television_director', 'cinematographer']",,,,us,50000000,,1454
+rob cohen,male,1949-03-12,"['screenwriter', 'film_producer', 'film_director', 'actor', 'television_producer', 'television_director']",75,,,us,40000000,True,1455
+brett ratner,male,1969-03-28,"['film_director', 'film_producer', 'television_producer', 'music_video_director', 'actor', 'television_director']",54,1.73,,us,85000000,True,1456
+luc besson,male,1959-03-18,"['screenwriter', 'film_producer', 'film_director', 'television_producer', 'actor']",65,1.73,,fr,100000000,True,1457
+tarsem singh,male,1961-05-26,['film_director'],62,,,in,10000000,True,1458
+sylvester stallone,male,1946-07-06,"['screenwriter', 'actor', 'film_director', 'television_producer', 'film_producer', 'voice_actor']",77,1.77,,us,400000000,True,1461
+simon west,male,1961,"['film_director', 'film_producer', 'television_producer', 'film_editor', 'music_video_director']",,,,gb,15000000,,1462
+scott derrickson,male,,"['film_director', 'screenwriter', 'film_producer']",,,,us,8000000,,1463
+antoine fuqua,male,1966-01-19,"['film_director', 'film_producer', 'music_video_director']",58,,,us,25000000,True,1464
+ari sandel,male,,"['film_director', 'film_producer']",,,,us,1000000,,1470
+bernardo bertolucci,male,1941-03-16,"['film_director', 'screenwriter', 'writer', 'film_producer', 'actor']",77,,2018-11-26,it,40000000,False,1473
+richard ayoade,male,1977-06-12,"['actor', 'comedian', 'television_director', 'screenwriter']",46,1.88,,gb,2000000,True,1474
+larry charles,male,1956-02-20,"['television_producer', 'film_director', 'television_director', 'screenwriter', 'actor']",68,,,us,100000000,True,1479
+alexander payne,male,1961-02-10,"['film_producer', 'television_producer', 'film_director', 'screenwriter', 'author']",63,,,us,25000000,True,1485
+martin scorsese,male,1942-11-17,"['film_producer', 'actor', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'film_editor', 'film_historian']",81,1.63,,us,150000000,True,1486
+john madden,male,1936-04-10,"['american_football_player', 'american_football_coach']",87,1.93,,us,200000000,True,1488
+roland emmerich,male,1955-11-10,"['film_director', 'film_producer', 'screenwriter', 'television_producer']",68,,,de,200000000,True,1489
+christopher nolan,male,1970-07-30,"['screenwriter', 'film_producer', 'film_director', 'cinematographer', 'editor', 'film_editor']",53,1.8,,us,250000000,True,1490
+christopher nolan,male,1970-07-30,"['screenwriter', 'film_producer', 'film_director', 'cinematographer', 'editor', 'film_editor']",53,1.8,,us,250000000,True,1491
+ron howard,male,1954-03-01,"['actor', 'film_producer', 'film_director', 'television_producer', 'screenwriter', 'voice_actor', 'television_director']",70,1.75,,us,200000000,True,1492
+david fincher,male,1962-08-28,"['film_director', 'film_producer', 'music_video_director', 'television_producer', 'actor', 'television_director', 'screenwriter']",61,1.84,,us,75000000,True,1493
+robert redford,male,1937-08-18,"['actor', 'film_producer', 'film_director', 'businessperson', 'television_producer', 'activist', 'environmentalist', 'philanthropist']",86,1.79,,us,200000000,True,1498
+james wan,male,1977-02-26,"['film_director', 'film_producer', 'screenwriter', 'film_editor']",47,1.68,,my,70000000,True,1499
+robert redford,male,1937-08-18,"['actor', 'film_producer', 'film_director', 'businessperson', 'television_producer', 'activist', 'environmentalist', 'philanthropist']",86,1.79,,us,200000000,True,1501
+david jason,male,1940-02-02,"['actor', 'voice_actor', 'television_producer']",84,1.68,,gb,10000000,True,1502
+jay roach,male,1957-06-14,"['film_director', 'film_producer', 'screenwriter', 'cinematographer']",66,1.84,,us,100000000,True,1513
+rob reiner,male,1947-03-06,"['film_director', 'actor', 'film_producer', 'screenwriter', 'activist']",77,1.88,,us,200000000,True,1518
+brian johnson,male,1947-10-05,"['singer', 'singer-songwriter', 'film_score_composer', 'actor', 'lyricist']",76,1.65,,gb,90000000,True,1519
+rian johnson,male,1973-12-17,"['screenwriter', 'film_director', 'film_producer', 'film_editor']",50,1.68,,us,20000000,True,1519
+paul greengrass,male,1955-08-13,"['screenwriter', 'film_director', 'television_producer', 'journalist', 'television_director', 'film_producer']",68,,,gb,20000000,True,1523
+paul greengrass,male,1955-08-13,"['screenwriter', 'film_director', 'television_producer', 'journalist', 'television_director', 'film_producer']",68,,,gb,20000000,True,1524
+doug liman,male,1965-07-24,"['television_producer', 'film_producer', 'film_director', 'television_director', 'cinematographer']",58,1.87,,us,50000000,True,1526
+troy duffy,male,1971-06-08,"['screenwriter', 'actor', 'film_director', 'writer', 'musician']",52,,,us,22000000,True,1527
+john madden,male,1936-04-10,"['american_football_player', 'american_football_coach']",87,1.93,,us,200000000,True,1537
+jodie foster,female,1962-11-19,"['actor', 'musician', 'film_director', 'film_producer', 'voice_actor', 'television_director']",61,1.61,,us,100000000,True,1538
+danny boyle,male,1956-10-20,"['film_producer', 'film_director', 'screenwriter', 'television_director', 'television_producer', 'theatre_director']",67,1.82,,gb,60000000,True,1539
+john butler,male,1975-04-01,"['singer', 'songwriter', 'musician', 'guitarist', 'didgeridooist', 'record_producer']",48,,,au,12000000,True,1542
+martin scorsese,male,1942-11-17,"['film_producer', 'actor', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'film_editor', 'film_historian']",81,1.63,,us,150000000,True,1545
+joss whedon,male,1964-06-23,"['screenwriter', 'television_director', 'television_producer', 'film_producer', 'film_director', 'cartoonist', 'novelist', 'actor', 'writer', 'comic_book_creator']",59,1.78,,us,100000000,True,1546
+marc webb,male,1974-08-31,"['film_director', 'music_video_director', 'television_producer', 'film_editor']",49,,,us,18000000,True,1554
+marc webb,male,1974-08-31,"['film_director', 'music_video_director', 'television_producer', 'film_editor']",49,,,us,18000000,True,1555
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,1556
+joe carnahan,male,1969-05-09,"['film_director', 'screenwriter', 'film_producer', 'writer', 'actor']",54,1.83,,us,13000000,True,1558
+judd apatow,male,1967-12-06,"['film_producer', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'actor', 'voice_actor', 'comedian']",56,1.74,,us,150000000,True,1560
+jason reitman,male,1977-10-19,"['film_director', 'actor', 'screenwriter', 'film_producer', 'businessperson', 'television_director']",46,1.8,,ca,12000000,True,1563
+jay mcgraw,male,1979-09-12,"['writer', 'talk_show_host', 'television_producer']",44,,,us,30000000,True,1565
+tim mcgraw,male,1967-05-01,"['actor', 'singer', 'songwriter', 'guitarist']",56,1.78,,us,165000000,True,1565
+aaron mcgruder,male,1974-05-29,"['writer', 'cartoonist', 'television_producer', 'screenwriter', 'voice_actor', 'public_speaker', 'film_score_composer']",49,,,us,10000000,True,1565
+jeremy mcgrath,male,1971-11-19,['actor'],52,,,us,6000000,True,1565
+tracy mcgrady,male,1979-05-24,['basketball_player'],44,2.03,,us,75000000,True,1565
+bernard mcguirk,male,1957-10-26,,66,,,us,3000000,True,1565
+carol mcgiffin,female,1960-02-18,"['presenter', 'radio_personality']",64,1.75,,gb,9000000,True,1565
+paul mcguinness,male,1951-06-17,"['talent_manager', 'theatrical_producer', 'film_producer', 'businessperson']",72,,,de,150000000,True,1565
+katie mcgrath,female,1983-10-24,"['actor', 'journalist', 'makeup_artist', 'model']",40,1.65,,ie,4000000,True,1565
+joseph mcginty nichol,male,1968-08-09,"['film_director', 'film_producer', 'record_producer', 'television_producer', 'songwriter', 'screenwriter']",55,1.88,,us,60000000,True,1565
+jordan mcgraw,,,,,,,,20000000,,1565
+tom mcgowan,male,1959-07-26,['actor'],64,,,us,2000000,True,1565
+paul mcgowan,,,,,,,,48000000,,1565
+ted mcginley,male,1958-05-30,['actor'],65,1.82,,us,5000000,True,1565
+bob mcgrath,male,1932-06-13,"['actor', 'writer']",91,,,us,2000000,True,1565
+ehren mcghehey,male,1976-11-29,"['actor', 'stunt_performer', 'entrepreneur']",47,,,us,3500000,True,1565
+conor mcgregor,male,1988-07-14,['mixed_martial_artist'],35,1.75,,ie,120000000,True,1565
+scott mcgillivray,male,1978-04-07,"['carpentry', 'actor', 'presenter']",45,1.83,,ca,4000000,True,1565
+paddy mcguinness,,1878,,,,,,10000000,,1565
+patrick mcgovern,male,1937-08-11,['businessperson'],76,,2014-03-19,us,5700000000,False,1565
+john c. mcginley,male,1959-08-03,"['actor', 'film_producer', 'comedian', 'author', 'voice_actor', 'entrepreneur', 'screenwriter', 'spokesperson']",64,1.88,,us,10000000,True,1565
+javale mcgee,male,1988-01-19,['basketball_player'],36,2.13,,us,14000000,True,1565
+kelly mcgillis,female,1957-07-09,['actor'],66,1.78,,us,4000000,True,1565
+william mcgirt,,,,,,,,11000000,,1565
+blake mcgrath,male,1983-11-21,"['dancer', 'choreographer', 'actor', 'model']",40,,,us,2000000,True,1565
+paul mcgann,male,1959-11-14,"['actor', 'voice_actor']",64,1.74,,gb,7000000,True,1565
+mike mcgill,male,1964,"['skateboarder', 'actor']",,,,us,10000000,,1565
+fred mcgriff,male,1963-10-31,['baseball_player'],60,,,us,30000000,True,1565
+mark mcgrath,male,1968-03-15,"['singer', 'presenter', 'musician', 'actor', 'composer']",56,1.85,,us,6000000,True,1565
+paul mcgillion,male,1969-01-05,['actor'],55,1.78,,gb,3000000,True,1565
+seth macfarlane,male,1973-10-26,"['actor', 'composer', 'animator', 'television_producer', 'voice_actor', 'comedian', 'singer', 'screenwriter', 'film_director', 'television_director']",50,1.78,,us,300000000,True,1567
+adam mckay,male,1968-04-17,"['screenwriter', 'actor', 'film_director', 'comedian', 'television_producer', 'television_director', 'film_producer']",55,1.96,,us,40000000,True,1569
+stephen gaghan,male,1965-05-06,"['screenwriter', 'film_director', 'television_producer']",58,,,us,14000000,True,1577
+charlie kaufman,male,1958-11-19,"['screenwriter', 'film_producer', 'film_director', 'lyricist', 'television_producer']",65,1.63,,us,10000000,True,1578
+tim burton,male,1958-08-25,"['film_producer', 'film_director', 'screenwriter', 'artist', 'animator', 'television_producer', 'actor', 'television_director', 'poet', 'visual_artist']",65,1.82,,us,100000000,True,1580
+michael chang,male,1972-02-22,['tennis_player'],52,1.75,,us,30000000,True,1587
+bryan singer,male,1965-09-17,"['television_producer', 'film_producer', 'film_director', 'screenwriter', 'actor']",58,1.78,,us,100000000,True,1589
+jay chandrasekhar,male,1968-04-09,"['comedian', 'film_director', 'actor', 'screenwriter', 'television_director', 'film_editor', 'film_producer']",55,1.82,,us,4000000,True,1591
+james gunn,male,1970-08-05,"['screenwriter', 'film_producer', 'actor', 'film_director', 'television_producer', 'television_director', 'novelist', 'musician', 'cartoonist']",53,1.82,,us,50000000,True,1593
+danny boyle,male,1956-10-20,"['film_producer', 'film_director', 'screenwriter', 'television_director', 'television_producer', 'theatre_director']",67,1.82,,gb,60000000,True,1594
+zack snyder,male,1966-03-01,"['film_director', 'film_producer', 'screenwriter']",58,1.7,,us,60000000,True,1595
+richard ayoade,male,1977-06-12,"['actor', 'comedian', 'television_director', 'screenwriter']",46,1.88,,gb,2000000,True,1596
+joe carnahan,male,1969-05-09,"['film_director', 'screenwriter', 'film_producer', 'writer', 'actor']",54,1.83,,us,13000000,True,1598
+david ayer,male,1968-01-18,"['screenwriter', 'film_director', 'film_producer', 'actor']",56,1.89,,us,20000000,True,1599
+marc forster,male,1969-11-30,"['film_director', 'screenwriter', 'film_producer']",54,,,de,30000000,True,1600
+anne fletcher,female,1966-05-01,"['film_director', 'choreographer', 'actor']",57,,,us,15000000,True,1610
+adam mckay,male,1968-04-17,"['screenwriter', 'actor', 'film_director', 'comedian', 'television_producer', 'television_director', 'film_producer']",55,1.96,,us,40000000,True,1612
+marc forster,male,1969-11-30,"['film_director', 'screenwriter', 'film_producer']",54,,,de,30000000,True,1613
+todd phillips,male,1970-12-20,"['film_director', 'screenwriter', 'film_producer', 'actor']",53,1.83,,us,200000000,True,1615
+matthew vaughn,male,1971-03-07,"['film_director', 'film_producer', 'screenwriter', 'television_producer']",53,1.83,,gb,30000000,True,1618
+george lucas,male,1944-05-14,"['film_producer', 'film_director', 'screenwriter', 'cinematographer', 'film_editor', 'entrepreneur', 'actor', 'television_producer']",79,1.7,,us,8000000000,True,1619
+george lucas,male,1944-05-14,"['film_producer', 'film_director', 'screenwriter', 'cinematographer', 'film_editor', 'entrepreneur', 'actor', 'television_producer']",79,1.7,,us,8000000000,True,1620
+fisher stevens,male,1963-11-27,"['actor', 'film_producer', 'film_director']",60,1.7,,us,8000000,True,1624
+tony scott,male,1944-06-21,"['film_producer', 'film_director', 'television_producer', 'television_director', 'cinematographer', 'actor', 'screenwriter', 'film_editor']",68,1.69,2012-08-19,gb,200000000,False,1627
+sam raimi,male,1959-10-23,"['film_director', 'screenwriter', 'actor', 'television_producer', 'film_producer']",64,1.8,,us,60000000,True,1634
+sam raimi,male,1959-10-23,"['film_director', 'screenwriter', 'actor', 'television_producer', 'film_producer']",64,1.8,,us,60000000,True,1635
+sam raimi,male,1959-10-23,"['film_director', 'screenwriter', 'actor', 'television_producer', 'film_producer']",64,1.8,,us,60000000,True,1636
+lana wachowski,female,1965-06-21,"['film_director', 'screenwriter', 'film_producer', 'writer', 'comic_book_creator']",58,,,us,125000000,True,1637
+clint eastwood,male,1930-05-31,"['actor', 'film_director', 'film_producer', 'politician', 'composer', 'pianist', 'film_score_composer', 'television_producer', 'businessperson', 'investor']",93,1.93,,us,375000000,True,1640
+duncan jones,male,1971-05-30,"['film_director', 'screenwriter', 'film_producer']",52,,,gb,50000000,True,1641
+rupert sanders,male,1971-03-16,['film_director'],53,1.91,,gb,15000000,True,1650
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,1652
+joe carnahan,male,1969-05-09,"['film_director', 'screenwriter', 'film_producer', 'writer', 'actor']",54,1.83,,us,13000000,True,1653
+joel surnow,male,1955-12-18,"['screenwriter', 'television_producer', 'television_director', 'film_producer', 'film_director']",68,,,us,9000000,True,1655
+danny boyle,male,1956-10-20,"['film_producer', 'film_director', 'screenwriter', 'television_director', 'television_producer', 'theatre_director']",67,1.82,,gb,60000000,True,1656
+sam mendes,male,1965-08-01,"['film_producer', 'film_director', 'television_director', 'television_producer', 'theatre_director']",58,1.78,,gb,30000000,True,1658
+mike mitchell,,,,,,,,12000000,,1659
+scott derrickson,male,,"['film_director', 'screenwriter', 'film_producer']",,,,us,8000000,,1662
+frank miller,male,1957-01-27,"['screenwriter', 'comic_book_creator', 'writer', 'artist', 'author', 'film_director', 'actor', 'visual_artist']",67,1.86,,us,25000000,True,1663
+frank miller,male,1957-01-27,"['screenwriter', 'comic_book_creator', 'writer', 'artist', 'author', 'film_director', 'actor', 'visual_artist']",67,1.86,,us,25000000,True,1664
+alexander payne,male,1961-02-10,"['film_producer', 'television_producer', 'film_director', 'screenwriter', 'author']",63,,,us,25000000,True,1668
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,1669
+martin scorsese,male,1942-11-17,"['film_producer', 'actor', 'film_director', 'screenwriter', 'television_producer', 'television_director', 'film_editor', 'film_historian']",81,1.63,,us,150000000,True,1670
+mike mitchell,,,,,,,,12000000,,1673
+antoine fuqua,male,1966-01-19,"['film_director', 'film_producer', 'music_video_director']",58,,,us,25000000,True,1677
+charles michael davis,male,1984-12-01,['actor'],39,,,us,800000,True,1678
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,1680
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,1681
+edgar wright,male,1974-04-18,"['film_director', 'television_director', 'screenwriter', 'actor', 'film_producer', 'editor', 'television_producer', 'tv_editor']",49,,,gb,10000000,True,1683
+steve mcqueen,male,1930-03-24,"['actor', 'film_producer']",50,1.77,1980-11-07,us,30000000,False,1686
+steve mcqueen,male,1969-10-09,"['artist', 'film_director', 'screenwriter', 'video_artist', 'film_producer']",54,,,gb,14000000,True,1686
+joss whedon,male,1964-06-23,"['screenwriter', 'television_director', 'television_producer', 'film_producer', 'film_director', 'cartoonist', 'novelist', 'actor', 'writer', 'comic_book_creator']",59,1.78,,us,100000000,True,1694
+ava duvernay,female,1972-08-24,"['film_director', 'publicist', 'screenwriter', 'film_producer', 'filmmaker']",51,,,us,60000000,True,1697
+james toback,male,1944-11-23,"['screenwriter', 'film_director', 'actor', 'film_producer']",79,,,us,10000000,True,1700
+david koepp,male,1963-06-09,"['screenwriter', 'actor', 'television_producer', 'film_producer', 'film_director']",60,1.91,,us,35000000,True,1701
+wes craven,male,1939-08-02,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'teacher', 'television_director', 'film_editor']",84,1.88,,us,40000000,True,1703
+edgar wright,male,1974-04-18,"['film_director', 'television_director', 'screenwriter', 'actor', 'film_producer', 'editor', 'television_producer', 'tv_editor']",49,,,gb,10000000,True,1704
+richard linklater,male,1960-07-30,"['film_director', 'screenwriter', 'film_producer', 'actor', 'television_producer', 'television_director', 'cinematographer']",63,1.75,,us,12000000,True,1706
+keenen ivory wayans,male,1958-06-08,"['actor', 'film_director', 'screenwriter', 'film_producer', 'comedian', 'television_producer', 'television_director']",65,1.91,,us,65000000,True,1708
+james wan,male,1977-02-26,"['film_director', 'film_producer', 'screenwriter', 'film_editor']",47,1.68,,my,70000000,True,1712
+oliver stone,male,1946-09-15,"['screenwriter', 'film_producer', 'film_director', 'actor', 'television_producer', 'cinematographer', 'film_editor', 'author', 'television_director', 'soldier']",77,1.83,,us,70000000,True,1715
+colin trevorrow,male,1976-09-13,"['screenwriter', 'film_director', 'film_producer']",47,,,us,5000000,True,1719
+brett ratner,male,1969-03-28,"['film_director', 'film_producer', 'television_producer', 'music_video_director', 'actor', 'television_director']",54,1.73,,us,85000000,True,1724
+ron howard,male,1954-03-01,"['actor', 'film_producer', 'film_director', 'television_producer', 'screenwriter', 'voice_actor', 'television_director']",70,1.75,,us,200000000,True,1725
+david schwimmer,male,1966-11-02,"['television_director', 'actor', 'film_director', 'film_producer', 'theatre_director', 'voice_actor']",57,1.85,,us,100000000,True,1727
+jon stewart,male,1962-11-28,"['comedian', 'actor', 'television_producer', 'screenwriter', 'journalist', 'commentator', 'critic', 'film_producer', 'talk_show_host', 'writer']",61,1.69,,us,120000000,True,1731
+david wain,male,1969-08-01,"['actor', 'comedian', 'screenwriter', 'film_director', 'television_director', 'television_producer', 'film_producer', 'film_editor', 'writer']",54,1.8,,us,1000000,True,1735
+sylvester stallone,male,1946-07-06,"['screenwriter', 'actor', 'film_director', 'television_producer', 'film_producer', 'voice_actor']",77,1.77,,us,400000000,True,1737
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,1738
+ridley scott,male,1937-11-30,"['film_producer', 'film_director', 'production_designer', 'television_producer', 'television_director']",86,1.74,,gb,400000000,True,1743
+todd phillips,male,1970-12-20,"['film_director', 'screenwriter', 'film_producer', 'actor']",53,1.83,,us,200000000,True,1745
+sam mendes,male,1965-08-01,"['film_producer', 'film_director', 'television_director', 'television_producer', 'theatre_director']",58,1.78,,gb,30000000,True,1746
+jason momoa,male,1979-08-01,"['model', 'actor']",44,1.93,,us,14000000,True,1747
+carlos saldanha,male,1965-01-24,"['film_director', 'film_producer', 'animator', 'voice_actor', 'screenwriter']",59,,,br,10000000,True,1751
+carlos saldanha,male,1965-01-24,"['film_director', 'film_producer', 'animator', 'voice_actor', 'screenwriter']",59,,,br,10000000,True,1752
+tim story,male,1970-03-13,"['film_director', 'film_producer', 'screenwriter', 'film_editor', 'television_producer', 'television_director', 'music_video_director']",54,,,us,15000000,True,1754
+guy ritchie,male,1968-09-10,"['film_director', 'screenwriter', 'film_producer', 'television_producer', 'businessperson', 'actor', 'copywriter']",55,1.8,,gb,150000000,True,1757
+sam mendes,male,1965-08-01,"['film_producer', 'film_director', 'television_director', 'television_producer', 'theatre_director']",58,1.78,,gb,30000000,True,1758
+gus van sant,male,1952-07-24,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'painter', 'photographer', 'musician', 'author', 'television_producer', 'actor']",71,1.75,,us,50000000,True,1759
+russell mulcahy,male,1953-06-23,"['film_director', 'television_director', 'television_producer', 'actor']",70,,,au,8000000,True,1761
+werner herzog,male,1942-09-05,"['film_director', 'screenwriter', 'film_producer', 'actor', 'opera_director', 'television_director', 'voice_actor', 'film_editor', 'author']",81,1.85,,de,20000000,True,1766
+darren aronofsky,male,1969-02-12,"['film_director', 'film_producer', 'screenwriter', 'actor']",55,1.83,,us,25000000,True,1767
+kevin smith,male,1970-08-02,"['actor', 'film_producer', 'film_director', 'film_editor', 'comedian', 'comic_book_creator', 'radio_personality', 'screenwriter', 'television_producer', 'author']",53,1.75,,us,25000000,True,1773
+brett ratner,male,1969-03-28,"['film_director', 'film_producer', 'television_producer', 'music_video_director', 'actor', 'television_director']",54,1.73,,us,85000000,True,1776
+gabe polsky,male,,"['film_producer', 'writer', 'film_director']",,,,us,10000000,,1778
+shawn levy,male,1968-07-23,"['actor', 'film_director', 'film_producer', 'television_producer', 'television_director']",55,,,us,50000000,True,1781
+taylor hackford,male,1944-12-31,"['film_director', 'film_producer', 'screenwriter', 'television_producer', 'television_director']",79,1.88,,us,100000000,True,1782
+brad bird,male,1957-09-24,"['actor', 'film_director', 'screenwriter', 'animator', 'writer', 'voice_actor', 'film_producer', 'television_director']",66,,,us,40000000,True,1783
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1784
+uwe boll,male,1965-06-22,"['film_producer', 'film_director', 'screenwriter', 'actor', 'author']",58,,,de,10000000,True,1785
+dustin hoffman,male,1937-08-08,"['actor', 'television_producer', 'film_producer', 'film_director', 'voice_actor']",86,1.67,,us,100000000,True,1787
+marc forster,male,1969-11-30,"['film_director', 'screenwriter', 'film_producer']",54,,,de,30000000,True,1789
+paul thomas anderson,male,1970-06-26,"['screenwriter', 'film_producer', 'film_director', 'actor']",53,,,us,70000000,True,1795
+michael mann,male,1943-02-05,"['screenwriter', 'film_director', 'film_producer', 'television_producer', 'television_director', 'cinematographer']",81,1.73,,us,90000000,True,1797
+john madden,male,1936-04-10,"['american_football_player', 'american_football_coach']",87,1.93,,us,200000000,True,1799
+gus van sant,male,1952-07-24,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'painter', 'photographer', 'musician', 'author', 'television_producer', 'actor']",71,1.75,,us,50000000,True,1800
+ridley scott,male,1937-11-30,"['film_producer', 'film_director', 'production_designer', 'television_producer', 'television_director']",86,1.74,,gb,400000000,True,1801
+denis villeneuve,male,1967-10-03,"['film_director', 'screenwriter']",56,,,ca,16000000,True,1804
+mike newell,male,1942-03-28,"['film_director', 'television_producer', 'television_director', 'film_producer']",81,,,gb,15000000,True,1805
+david koepp,male,1963-06-09,"['screenwriter', 'actor', 'television_producer', 'film_producer', 'film_director']",60,1.91,,us,35000000,True,1810
+robert rodriguez,male,1968-06-20,"['film_director', 'musician', 'cinematographer', 'screenwriter', 'film_producer', 'film_editor', 'actor', 'writer', 'film_score_composer', 'voice_actor']",55,1.87,,us,50000000,True,1819
+elizabeth banks,female,1974-02-10,"['actor', 'film_director', 'film_producer', 'voice_actor']",50,1.65,,us,50000000,True,1822
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1824
+rob marshall,male,1960-10-17,"['film_director', 'choreographer', 'theatre_director', 'film_producer']",63,1.78,,us,16000000,True,1825
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1826
+gore verbinski,male,1964-03-16,"['film_director', 'screenwriter', 'musician', 'film_producer', 'music_video_director']",60,,,us,130000000,True,1827
+richard curtis,male,1956-11-08,"['screenwriter', 'television_producer', 'film_producer', 'actor', 'film_director', 'record_producer']",67,1.8,,nz,30000000,True,1828
+joel schumacher,male,1939-08-29,"['screenwriter', 'film_director', 'film_producer', 'costume_designer', 'television_director', 'television_producer', 'writer']",80,1.91,2020-06-22,us,80000000,False,1830
+stephen frears,male,1941-06-20,"['film_director', 'film_producer', 'actor', 'television_director', 'television_producer']",82,1.7,,gb,10000000,True,1831
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,1836
+john woo,male,1946-05-01,"['film_producer', 'screenwriter', 'actor', 'film_director', 'film_editor']",77,1.64,,cn,60000000,True,1837
+taylor hackford,male,1944-12-31,"['film_director', 'film_producer', 'screenwriter', 'television_producer', 'television_director']",79,1.88,,us,100000000,True,1840
+andy fickman,male,,"['film_director', 'film_producer', 'theatre_director', 'screenwriter', 'television_director', 'television_producer']",,,,us,3000000,,1841
+oren peli,male,1970-01-21,"['screenwriter', 'film_director', 'programmer', 'film_producer', 'television_producer']",54,,,il,24000000,True,1843
+michael bay,male,1965-02-17,"['film_director', 'film_producer', 'actor', 'music_video_director', 'television_producer', 'businessperson']",59,1.85,,us,450000000,True,1848
+guillermo del toro,male,1964-10-09,"['film_director', 'screenwriter', 'film_producer', 'actor', 'novelist', 'television_director', 'television_producer', 'voice_actor']",59,1.78,,mx,30000000,True,1851
+sam raimi,male,1959-10-23,"['film_director', 'screenwriter', 'actor', 'television_producer', 'film_producer']",64,1.8,,us,60000000,True,1852
+kevin costner,male,1955-01-18,"['actor', 'film_producer', 'film_director', 'television_producer', 'singer', 'musician', 'businessperson', 'model']",69,1.85,,us,250000000,True,1860
+jim jarmusch,male,1953-01-22,"['film_director', 'film_producer', 'screenwriter', 'actor', 'film_editor', 'cinematographer', 'film_score_composer']",71,1.88,,us,5000000,True,1862
+robert rodriguez,male,1968-06-20,"['film_director', 'musician', 'cinematographer', 'screenwriter', 'film_producer', 'film_editor', 'actor', 'writer', 'film_score_composer', 'voice_actor']",55,1.87,,us,50000000,True,1867
+antoine fuqua,male,1966-01-19,"['film_director', 'film_producer', 'music_video_director']",58,,,us,25000000,True,1870
+todd phillips,male,1970-12-20,"['film_director', 'screenwriter', 'film_producer', 'actor']",53,1.83,,us,200000000,True,1871
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,1875
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,1876
+steven soderbergh,male,1963-01-14,"['film_producer', 'television_producer', 'film_director', 'television_director', 'cinematographer', 'film_editor', 'screenwriter', 'television_editor', 'actor']",61,1.83,,us,80000000,True,1877
+joel coen,male,1954-11-29,"['screenwriter', 'film_director', 'film_producer', 'film_editor', 'television_producer', 'actor']",69,1.83,,us,60000000,True,1880
+louis leterrier,,,,,,,,14000000,,1882
+ivan reitman,male,1946-10-27,"['film_producer', 'film_director', 'television_producer', 'businessperson', 'screenwriter', 'voice_actor', 'actor']",77,1.77,,ca,100000000,True,1887
+ethan coen,male,1957-09-21,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'television_producer', 'actor']",66,1.72,,us,60000000,True,1888
+dan gilroy,male,1959-06-24,['screenwriter'],64,1.8,,us,10000000,True,1892
+shawn levy,male,1968-07-23,"['actor', 'film_director', 'film_producer', 'television_producer', 'television_director']",55,,,us,50000000,True,1895
+shawn levy,male,1968-07-23,"['actor', 'film_director', 'film_producer', 'television_producer', 'television_director']",55,,,us,50000000,True,1896
+alexander payne,male,1961-02-10,"['film_producer', 'television_producer', 'film_director', 'screenwriter', 'author']",63,,,us,25000000,True,1903
+jon turteltaub,male,1963-08-08,"['film_producer', 'film_director', 'television_producer', 'television_director']",60,,,us,80000000,True,1904
+jon turteltaub,male,1963-08-08,"['film_producer', 'film_director', 'television_producer', 'television_director']",60,,,us,80000000,True,1905
+joe carnahan,male,1969-05-09,"['film_director', 'screenwriter', 'film_producer', 'writer', 'actor']",54,1.83,,us,13000000,True,1906
+clint eastwood,male,1930-05-31,"['actor', 'film_director', 'film_producer', 'politician', 'composer', 'pianist', 'film_score_composer', 'television_producer', 'businessperson', 'investor']",93,1.93,,us,375000000,True,1909
+simon curtis,male,1960-03-11,"['film_producer', 'television_director', 'television_producer', 'film_director']",64,,,gb,20000000,True,1911
+nick cassavetes,male,1959-05-21,"['actor', 'film_director', 'screenwriter']",64,1.98,,us,40000000,True,1912
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,1919
+david lynch,male,1946-01-20,"['film_director', 'film_producer', 'actor', 'screenwriter', 'film_editor', 'painter', 'musician', 'television_producer', 'television_director', 'film_score_composer']",78,1.8,,us,60000000,True,1920
+joss whedon,male,1964-06-23,"['screenwriter', 'television_director', 'television_producer', 'film_producer', 'film_director', 'cartoonist', 'novelist', 'actor', 'writer', 'comic_book_creator']",59,1.78,,us,100000000,True,1922
+doug liman,male,1965-07-24,"['television_producer', 'film_producer', 'film_director', 'television_director', 'cinematographer']",58,1.87,,us,50000000,True,1927
+baz luhrmann,male,1962-09-17,"['screenwriter', 'film_director', 'film_producer', 'actor']",61,,,au,20000000,True,1931
+wes anderson,male,1969-05-01,"['screenwriter', 'film_director', 'film_producer', 'actor', 'voice_actor']",54,1.85,,us,50000000,True,1935
+duncan jones,male,1971-05-30,"['film_director', 'screenwriter', 'film_producer']",52,,,gb,50000000,True,1936
+pete docter,male,1968-10-09,"['film_director', 'animator', 'screenwriter', 'film_producer', 'voice_actor', 'writer']",55,1.94,,us,5000000,True,1939
+gil kenan,male,1976-10-16,['film_director'],47,,,us,3000000,True,1940
+patty jenkins,female,1971-07-24,"['screenwriter', 'film_director', 'television_director']",52,,,us,25000000,True,1942
+bennett miller,male,1966-12-30,"['film_director', 'film_producer', 'cinematographer']",57,,,us,3000000,True,1943
+john woo,male,1946-05-01,"['film_producer', 'screenwriter', 'actor', 'film_director', 'film_editor']",77,1.64,,cn,60000000,True,1946
+brad bird,male,1957-09-24,"['actor', 'film_director', 'screenwriter', 'animator', 'writer', 'voice_actor', 'film_producer', 'television_director']",66,,,us,40000000,True,1947
+steven spielberg,male,1946-12-18,"['film_producer', 'film_director', 'screenwriter', 'entrepreneur', 'television_producer', 'actor', 'film_editor', 'television_director', 'businessperson']",77,1.72,,us,7000000000,True,1950
+renny harlin,male,1959-03-15,"['film_director', 'actor', 'film_producer', 'television_director', 'screenwriter', 'cinematographer']",65,1.93,,fi,10000000,True,1951
+clint eastwood,male,1930-05-31,"['actor', 'film_director', 'film_producer', 'politician', 'composer', 'pianist', 'film_score_composer', 'television_producer', 'businessperson', 'investor']",93,1.93,,us,375000000,True,1952
+gus van sant,male,1952-07-24,"['film_director', 'screenwriter', 'film_producer', 'film_editor', 'painter', 'photographer', 'musician', 'author', 'television_producer', 'actor']",71,1.75,,us,50000000,True,1954
+woody allen,male,1935-12-01,"['actor', 'comedian', 'film_director', 'playwright', 'musician', 'screenwriter', 'writer', 'voice_actor', 'film_score_composer', 'film_producer']",88,1.65,,us,140000000,True,1955
+barry sonnenfeld,male,1953-04-01,"['film_director', 'cinematographer', 'film_producer', 'actor', 'television_producer', 'television_director']",70,,,us,80000000,True,1961
+barry sonnenfeld,male,1953-04-01,"['film_director', 'cinematographer', 'film_producer', 'actor', 'television_producer', 'television_director']",70,,,us,80000000,True,1962
+rob marshall,male,1960-10-17,"['film_director', 'choreographer', 'theatre_director', 'film_producer']",63,1.78,,us,16000000,True,1963
+christopher nolan,male,1970-07-30,"['screenwriter', 'film_producer', 'film_director', 'cinematographer', 'editor', 'film_editor']",53,1.8,,us,250000000,True,1964
+jay roach,male,1957-06-14,"['film_director', 'film_producer', 'screenwriter', 'cinematographer']",66,1.84,,us,100000000,True,1968
+jay roach,male,1957-06-14,"['film_director', 'film_producer', 'screenwriter', 'cinematographer']",66,1.84,,us,100000000,True,1969

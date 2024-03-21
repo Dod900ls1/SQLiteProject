@@ -5,8 +5,9 @@ import json
 
 df = pd.read_csv("data/Films.csv")
 
-names = []
-for i in range(len(df["Director"])//2):
+names_dict = {}
+# len(df["Director"])//2
+for i in range(len(df["Director"])//2 ):
     # Check if the value is a string
     if isinstance(df["Director"][i], str):
         if "|" in df["Director"][i]:
@@ -14,24 +15,23 @@ for i in range(len(df["Director"])//2):
             for name in separatedNames:
                 # Additional checks to ensure valid names
                 if all(char.isalpha() or char in "' " for char in name.strip()):
-                    names.append(name.strip())  # Strip leading/trailing whitespace and append
+                    names_dict[df.index[i]] = name.strip()  # Use index as key and strip leading/trailing whitespace
         else:
             # Additional checks to ensure valid names
             if all(char.isalpha() or char in "' " for char in df["Director"][i].strip()):
-                names.append(df["Director"][i].strip())  # Strip leading/trailing whitespace and append
-# print(names[:10])
-# Print the list of names
-print(len(names))
+                names_dict[df.index[i]] = df["Director"][i].strip()  # Use index as key and strip leading/trailing whitespace
+
+print(list(names_dict.items())[:10])
+print(list(names_dict.values())[:10])
 
 celebrities_data = []
-
 # API endpoint URL
 api_url_base = 'https://api.api-ninjas.com/v1/celebrity?'
 
 # API key
-api_key = 'htq3Qv20l9lWIsG6TcbaIQ==c7FOOXK80Udm1t9b'
+api_key = '60Afbhk8fLbdw9inW7M9Dg==MxsvOUji9Gm2EJU3'
 
-for name in names:
+for key, name in names_dict.items():
     # Construct API URL with the name
     api_url = api_url_base + 'name=' + name
     response = requests.get(api_url, headers={'X-Api-Key': api_key})
@@ -39,13 +39,16 @@ for name in names:
     # Check if the request was successful
     if response.status_code == requests.codes.ok:
         celebrity_info = response.json()
-        
-        # Append the celebrity info to the list
-        celebrities_data.append(celebrity_info)
-    else:
-        print("Error:", response.status_code, response.text)
+        for obj in celebrity_info:
+            obj['id'] = key
+        # Check if celebrity_info is not empty
+        if celebrity_info:
+            celebrities_data.append(celebrity_info)
 
 # Write the collected data to a JSON file
-with open('celebrities_data2.json', 'w') as json_file:
+with open('celebrities_data24.json', 'w') as json_file:
     json.dump(celebrities_data, json_file, indent=2)
+
+
+
 

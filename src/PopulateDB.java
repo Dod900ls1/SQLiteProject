@@ -9,7 +9,6 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-
 public class PopulateDB {
     private static String filmsPath = "data/Films.csv";
     private static String actorsPath = "data/Actors.csv";
@@ -20,7 +19,7 @@ public class PopulateDB {
 
         try (Connection conn = DriverManager.getConnection(databaseUrl)) {
             // Read CSV file and insert data into Movies table
-            // insertMovies(conn, filmsPath);
+            insertMovies(conn, filmsPath);
             insertPeople(conn, actorsPath, "actor");
             insertPeople(conn, directorsPath, "film_director");
             System.out.println("Data inserted successfully!");
@@ -30,7 +29,7 @@ public class PopulateDB {
     }
 
     private static void insertMovies(Connection conn, String csvFilePath) throws IOException, SQLException {
-        String sql1 = "INSERT INTO Movies (title, release_year, running_time, rating) VALUES (?, ?, ?, ?)";
+        String sql1 = "INSERT INTO Movies (title, release_year, running_time, genre_name, rating) VALUES (?, ?, ?, ?, ?)";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
             // Skip the header line
@@ -40,9 +39,12 @@ public class PopulateDB {
             while ((line = reader.readLine()) != null) {
                 String[] data = line.split(",");
                 if (data.length != 9)
-                    continue;
+                    continue; // Because we use just "," delimeter - we could devide our data into more
+                              // columns than we need (for example, if we meet a comma in movie name - we
+                              // would get 10 columns)
                 String title = data[0];
                 int releaseYear = Integer.parseInt(data[1]);
+                String genre_name = data[2];
                 int runningTime = Integer.parseInt(data[3]);
                 double rating = Double.parseDouble(data[4]);
 
@@ -50,7 +52,8 @@ public class PopulateDB {
                     pstmt.setString(1, title);
                     pstmt.setInt(2, releaseYear);
                     pstmt.setInt(3, runningTime);
-                    pstmt.setDouble(4, rating);
+                    pstmt.setString(4, genre_name);
+                    pstmt.setDouble(5, rating);
                     pstmt.executeUpdate();
                 }
             }
@@ -108,6 +111,4 @@ public class PopulateDB {
         return false; // Status not found
     }
 
-
 }
- 

@@ -3,18 +3,18 @@ import pandas as pd
 import csv
 
 # Load the JSON data from the file
-with open('celebrities_data.json', 'r') as json_file:
+with open('celebrities_data24.json', 'r') as json_file:
     data = json.load(json_file)
 
 # Remove empty lists from the data
 data = [item for item in data if item]
-df = pd.read_json('celebrities_data.json')
+df = pd.read_json('celebrities_data24.json')
 
 # Define the CSV file path
 csv_file_path = 'celebrities_data.csv'
 
 # Extract all unique keys from the JSON data
-unique_keys = ["name","gender","birthday","occupation","age","height","death","nationality","net_worth","is_alive"]
+unique_keys = ["name","gender","birthday","occupation","age","height","death","nationality","net_worth","is_alive","id"]
 
 # Write the data to a CSV file
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
