@@ -68,7 +68,7 @@ public class PopulateDB {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] data = line.split(",");
-                if (findStatus(data, status)) {
+                if (!findStatus(data, status)) {
                     continue; // If person is not of a correct status - continue
                 }
                 String gender = extractGender(data);
@@ -99,7 +99,7 @@ public class PopulateDB {
         return "other";
     }
 
-    private static boolean findStatus(String[] data, String expectedStatus) {
+    public static boolean findStatus(String[] data, String expectedStatus) {
         for (String i : data) {
             if (i.toLowerCase().contains(expectedStatus.toLowerCase())) {
                 return true;
@@ -110,3 +110,4 @@ public class PopulateDB {
 
 
 }
+ 
