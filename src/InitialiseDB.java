@@ -21,7 +21,7 @@ public class InitialiseDB {
             }
             // Establish connection to SQLite database
             connection = DriverManager.getConnection("jdbc:sqlite:" + dbFilePath);
-            System.out.println("Connection to SQLite has been established.");
+            System.out.println("OK");
 
         } catch (SQLException e) {
             System.err.println("Connection to SQLite failed: " + e.getMessage());
@@ -36,7 +36,7 @@ public class InitialiseDB {
             String query = "";
             // Read DDL file line by line
             while ((line = reader.readLine()) != null) {
-                String regexString = "--.*|/\\*(?:(?:(?!\\*/)[\\s\\S])*\\*/)?"; //TODO - make --work
+                String regexString = "--[^\r\n]*";
                 query += line.replaceAll(regexString, ""); // gets rid of all comments in the file
                 // Check if line ends with semicolon, indicating end of SQL statement
                 if (line.trim().endsWith(";")) {

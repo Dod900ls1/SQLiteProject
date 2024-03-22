@@ -29,9 +29,5 @@ public class JunitTests {
         Assert.assertEquals(expectedString, test);
     }
 
-    @Test
-    public void findStatusTest(){
-        String[] data = {"ian wright","male","1963-11-03", "presenter", "football_player", "radio_personality","60","1.75","gb","20000000","True"};
-        Assert.assertFalse(PopulateDB.findStatus(data, "actor"));
-    }
+
 }

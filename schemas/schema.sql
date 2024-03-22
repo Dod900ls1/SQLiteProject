@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS "Persons" (
 	status VARCHAR(255) NOT NULL,
 	name VARCHAR(255) NOT NULL,
     birthday DATE,
-    gender VARCHAR(6) CHECK( gender IN ('male','female','other'))
+    gender VARCHAR(6) CHECK( gender IN ('male','female','other')) --Comment
 );
 CREATE TABLE IF NOT EXISTS "Movies_Persons"(
     movie_id INTEGER NOT NULL,
@@ -21,6 +21,7 @@ CREATE TABLE IF NOT EXISTS "Movies_Persons"(
     FOREIGN KEY (person_id) REFERENCES "Persons"(person_id),
     PRIMARY KEY (movie_id, person_id)
 ); 
+-- Comment
 CREATE TABLE IF NOT EXISTS "Movies" (
     movie_id INTEGER PRIMARY KEY AUTOINCREMENT,
     title TEXT NOT NULL,
