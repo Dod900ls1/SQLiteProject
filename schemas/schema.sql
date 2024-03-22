@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS "Persons" (
 	person_id INTEGER PRIMARY KEY AUTOINCREMENT,
 	status VARCHAR(255) NOT NULL,
 	name VARCHAR(255) NOT NULL,
-    birthday DATE NOT NULL,
+    birthday DATE,
     gender VARCHAR(6) CHECK( gender IN ('male','female','other'))
 );
 CREATE TABLE IF NOT EXISTS "Movies_Persons"(

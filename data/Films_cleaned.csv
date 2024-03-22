@@ -1,6 +1,10 @@
 Title,Year,Genres,Runtime,Rating,Director,Writers,Cast,Row Number
-Faces Places,2017,Documentary,89,8.0,JR,JR,Agnès Varda|Jeannine Carpentier|JR,36
+89,2017,Uncategorized,91,8.1,Dave Stewart,Lee Dixon,Ian Wright,8
+Tom Segura: Disgraceful,2018,Comedy|Documentary,0,7.5,Jay Karas,Tom Segura,Tom Segura,11
+Adventures in Babysitting,2016,Adventure|Comedy|Family,105,6.1,John Schultz,Tiffany Paulsen,Nikki Hahn|Sabrina Carpenter|Sofia Carson,24
+Petals on the Wind,2014,Drama|Horror|Romance|Thriller,85,6.3,Karen Moncrieff,Virginia C. Andrews,Heather Graham|Rose McIver|Wyatt Nash,41
 Trouble Is My Business,2018,Action|Adventure|Crime|Mystery|Thriller,116,6.1,Tom Konkle,Tom Konkle,Brittney Powell|Tom Konkle|Vernon Wells,45
+Froning: The Fittest Man in History,2015,Documentary,99,6.7,Heber Cannon,Heber Cannon,Dan Bailey|Rich Froning,47
 Lucky,2017,Comedy|Drama,88,7.4,John Carroll Lynch,Logan Sparks,David Lynch|Harry Dean Stanton|Ron Livingston,65
 Molly's Game,2017,Biography|Crime|Drama,140,7.5,Aaron Sorkin,Aaron Sorkin,Idris Elba|Jessica Chastain|Kevin Costner,67
 Demon House,2018,Documentary|Horror,111,6.1,Zak Bagans,Zak Bagans,Adam Ahlbrandt|Matthew Mourgides|Zak Bagans,89
@@ -9,13 +13,19 @@ Star Wars: The Last Jedi,2017,Action|Adventure|Fantasy|Sci-Fi,152,7.4,Rian Johns
 In This Corner of the World,2016,Animation|Drama|Family|Fantasy|History,129,7.9,Sunao Katabuchi,Sunao Katabuchi,Kira Buckland|Non,167
 The Death of Stalin,2017,Comedy|History,107,7.2,Armando Iannucci,Armando Iannucci,Simon Russell Beale|Steve Buscemi,170
 Chris Rock: Tamborine,2018,Comedy,64,6.5,Bo Burnham,Chris Rock,Chris Rock,180
+Call Me by Your Name,2017,Drama|Romance,132,8.0,Luca Guadagnino,James Ivory,Armie Hammer|Michael Stuhlbarg|Timothée Chalamet,184
+I Am Not Your Negro,2016,Documentary,93,7.8,Raoul Peck,James Baldwin,James Baldwin|Martin Luther King|Samuel L. Jackson,198
 God's Own Country,2017,Drama|Romance,104,7.7,Francis Lee,Francis Lee,Alec Secareanu|Gemma Jones|Josh O'Connor,228
 "Roman J. Israel, Esq.",2017,Crime|Drama,122,6.4,Dan Gilroy,Dan Gilroy,Carmen Ejogo|Colin Farrell|Denzel Washington,231
 Bright,2017,Action|Crime|Fantasy|Thriller,117,6.4,David Ayer,Max Landis,Joel Edgerton|Noomi Rapace|Will Smith,242
 Rebel in the Rye,2017,Biography|Drama|Romance|War,106,6.6,Danny Strong,Danny Strong,Kevin Spacey|Nicholas Hoult|Victor Garber,264
+Brad's Status,2017,Comedy|Drama|Music,102,6.5,Mike White,Mike White,Austin Abrams|Ben Stiller|Jenna Fischer,270
+It,2017,Drama|Horror|Thriller,135,7.5,Andy Muschietti,Chase Palmer,Bill Skarsgård|Jaeden Lieberher,273
+Kingsman: The Golden Circle,2017,Action|Adventure|Comedy,141,6.8,Matthew Vaughn,Jane Goldman,Colin Firth|Taron Egerton,286
 A Family Man,2016,Drama,108,6.5,Mark Williams,Bill Dubuque,Alison Brie|Gerard Butler|Willem Dafoe,326
 Hired Gun,2016,Documentary|Music,98,7.2,Fran Strine,Tim Calandrello,Corey Britz|Kara Britz|Kenny Aronoff,340
 Mindhorn,2016,Comedy,89,6.3,Sean Foley,Julian Barratt,Julian Barratt|Simon Farnaby,361
+Gifted,2017,Drama,101,7.6,Marc Webb,Tom Flynn,Chris Evans|Lindsay Duncan|Mckenna Grace,394
 Gods and Generals,2003,Biography|Drama|History|War,219,6.3,Ron Maxwell,Jeff Shaara,Jeff Daniels|Robert Duvall|Stephen Lang,415
 Queen Rock Montreal & Live Aid,2007,Action|Music,138,8.6,Saul Swimmer,John Deacon,Freddie Mercury,431
 Get Out,2017,Action|Horror|Mystery|Thriller,104,7.7,Jordan Peele,Jordan Peele,Allison Williams|Bradley Whitford|Daniel Kaluuya,447
@@ -24,24 +34,37 @@ Patriots Day,2016,Action|Crime|Drama|History|Thriller,133,7.4,Peter Berg,Peter B
 Miss Sloane,2016,Drama|Thriller,132,7.5,John Madden,Jonathan Perera,Gugu Mbatha-Raw|Jessica Chastain|Mark Strong,482
 Collateral Beauty,2016,Action|Drama|Romance,97,6.8,David Frankel,Allan Loeb,Edward Norton|Kate Winslet|Will Smith,488
 Gimme Danger,2016,Action|Documentary|Music,108,7.2,Jim Jarmusch,Jim Jarmusch,Iggy Pop|Ron Asheton|Scott Asheton,503
+Billy Lynn's Long Halftime Walk,2016,Action|Drama|War,113,6.3,Ang Lee,Ben Fountain,Arturo Castro|Garrett Hedlund|Joe Alwyn,509
 American Pastoral,2016,Crime|Drama,108,6.1,Ewan McGregor,Philip Roth,Dakota Fanning|Ewan McGregor|Jennifer Connelly,511
+Trolls,2016,Action|Adventure|Animation|Comedy|Family,92,6.5,Mike Mitchell,Jonathan Aibel,Anna Kendrick|Justin Timberlake,514
 Deepwater Horizon,2016,Action|Drama|Thriller,107,7.2,Peter Berg,Matthew Michael Carnahan,Kurt Russell|Mark Wahlberg,529
 The Birth of a Nation,2016,Action|Biography|Drama|History,120,6.4,Nate Parker,Nate Parker,Armie Hammer|Nate Parker,532
+In a Valley of Violence,2016,Action|Crime|Drama|Thriller|Western,104,6.0,Ti West,Ti West,Ethan Hawke|John Travolta|Taissa Farmiga,538
 Suicide Squad,2016,Action|Adventure|Fantasy|Sci-Fi,123,6.1,David Ayer,David Ayer,Jared Leto|Margot Robbie|Will Smith,554
+Mr. Church,2016,Comedy|Drama,104,7.6,Bruce Beresford,Susan McMartin,Britt Robertson|Eddie Murphy|Natascha McElhone,581
 Neverland,2011,Action|Adventure|Fantasy,180,6.5,Keira Knightley,,Anna Friel,607
 Big Top Scooby-Doo!,2012,Action|Adventure|Animation|Comedy|Family,80,7.0,Ben Jones,Doug Langdale,Frank Welker|Grey Griffin|Mindy Cohn,615
 Free State of Jones,2016,Action|Biography|Drama|History|War,139,6.9,Gary Ross,Gary Ross,Gugu Mbatha-Raw|Matthew McConaughey,616
 Captain America: Civil War,2016,Action|Adventure|Sci-Fi,147,7.8,Anthony Russo,Christopher Markus,Chris Evans|Robert Downey Jr.,633
+The Man Who Knew Infinity,2015,Action|Biography|Drama,108,7.2,Matt Brown,Matt Brown,Dev Patel|Jeremy Irons,646
 Barney Thomson,2015,Action|Comedy|Crime,96,6.3,Robert Carlyle,Richard Cowan,Emma Thompson|Robert Carlyle,675
 Steve McQueen: The Man & Le Mans,2015,Action|Documentary,102,6.8,Gabriel Clarke,Gabriel Clarke,Roman Polanski|Sharon Tate|Steve McQueen,692
 Insidious: Chapter 3,2015,Action|Fantasy|Horror|Mystery|Thriller,97,6.1,Leigh Whannell,Leigh Whannell,Angus Sampson|Dermot Mulroney|Stefanie Scott,709
+Eddie the Eagle,2016,Action|Biography|Comedy|Drama|Sport,106,7.4,Dexter Fletcher,Sean Macaulay,Hugh Jackman|Taron Egerton,718
+The Brothers Grimsby,2016,Action|Adventure|Comedy,83,6.2,Louis Leterrier,Sacha Baron Cohen,Mark Strong|Sacha Baron Cohen,728
+Collapse,2009,Action|Documentary,82,7.8,Chris Smith,Michael Ruppert,Michael Ruppert,747
 Killshot,2008,Action|Crime|Drama|Thriller,95,6.0,John Madden,Hossein Amini,Diane Lane|Mickey Rourke|Thomas Jane,761
 Concussion,2015,Action|Biography|Drama|Sport,123,7.1,Peter Landesman,Peter Landesman,Albert Brooks|Alec Baldwin|Will Smith,821
 Michael Jackson's Journey from Motown to Off the Wall,2016,Action|Documentary|Music,93,7.4,Spike Lee,Michael Jackson,Berry Gordy,826
+Below,2002,Action|Horror|Mystery|Thriller,105,6.2,David Twohy,Lucas Sussman,Bruce Greenwood|David Crow,827
+The Lady in the Van,2015,Action|Biography|Comedy|Drama,104,6.7,Nicholas Hytner,Alan Bennett,Alex Jennings|Jim Broadbent|Maggie Smith,838
+The Peanuts Movie,2015,Action|Adventure|Animation|Comedy|Family,88,7.1,Steve Martino,Craig Schulz,Bill Melendez|Noah Schnapp,842
 Secret in Their Eyes,2015,Action|Crime|Drama|Mystery|Thriller,111,6.3,Billy Ray,Billy Ray,Chiwetel Ejiofor|Nicole Kidman,869
 Truth,2015,Action|Biography|Drama|History,125,6.8,James Vanderbilt,James Vanderbilt,Cate Blanchett|Dennis Quaid|Robert Redford,917
 King Solomon's Mines,2004,Action|Adventure|Fantasy|Romance,0,6.0,Patrick Swayze,,Roy Marsden,922
 Before We Go,2014,Action|Comedy|Drama|Romance,95,6.8,Chris Evans,Ronald Bass,Alice Eve|Chris Evans,929
+Straight Outta Compton,2015,Action|Biography|Crime|Drama|History,147,7.9,F. Gary Gray,Jonathan Herman,Corey Hawkins|O'Shea Jackson Jr.,933
+The Diary of a Teenage Girl,2015,Action|Drama|Romance,102,6.9,Marielle Heller,Phoebe Gloeckner,Alexander Skarsgård|Bel Powley|Kristen Wiig,942
 Daft Punk Unchained,2015,Action|Documentary|Music,85,7.3,Hervé Martin-Delpierre,Marina Rozenman,Guy-Manuel De Homem-Christo|Skrillex|Thomas Bangalter,966
 Steve Jobs: The Man in the Machine,2015,Action|Documentary,128,6.9,Alex Gibney,Alex Gibney,Bob Belleville|Chrisann Brennan|Nolan Bushnell,993
 The Search for Freedom,2015,Action|Documentary,92,6.9,Jon Long,Jon Long,Annie Boulanger|Bruce Brown|Yvon Chouinard,1028
@@ -49,10 +72,13 @@ Winter's Tale,2014,Action|Drama|Fantasy|Mystery|Romance,118,6.2,Akiva Goldsman,A
 What We Do in the Shadows,2014,Action|Comedy|Fantasy|Horror,86,7.6,Jemaine Clement,Jemaine Clement,Cori Gonzalez-Macuer|Jemaine Clement|Taika Waititi,1090
 We Are Marshall,2006,Action|Drama|Sport,131,7.1,McG,Jamie Linden,Matthew Fox|Matthew McConaughey,1108
 Veronica Mars,2014,Action|Crime|Drama|Mystery|Thriller,107,6.8,Rob Thomas,Rob Thomas,Jason Dohring|Kristen Bell,1126
+Unleashed,2005,Action|Crime|Drama|Thriller,103,7.0,Louis Leterrier,Luc Besson,Bob Hoskins|Jet Li|Morgan Freeman,1142
 Turks & Caicos,2014,Action|Drama|Mystery|Thriller,95,6.6,David Hare,David Hare,Bill Nighy|Christopher Walken|Winona Ryder,1163
+Transporter 2,2005,Action|Crime|Thriller,87,6.3,Louis Leterrier,Luc Besson,Amber Valletta|Jason Statham,1180
 Tim's Vermeer,2013,Action|Documentary|History,80,7.8,Teller,Penn Jillette,Martin Mull|Penn Jillette|Tim Jenison,1203
 This Means War,2012,Action|Comedy|Romance,97,6.3,McG,Timothy Dowling,Chris Pine|Reese Witherspoon,1212
 The Way Way Back,2013,Action|Comedy|Drama,103,7.4,Nat Faxon,Nat Faxon,Allison Janney|Steve Carell|Toni Collette,1234
+The Transporter,2002,Action|Crime|Thriller,92,6.8,Louis Leterrier,Luc Besson,Jason Statham|Matt Schulze|Qi Shu,1252
 The Switch,2010,Action|Comedy|Drama|Romance,0,6.1,Josh Gordon,Allan Loeb,Jason Bateman|Jennifer Aniston|Patrick Wilson,1260
 The Second Best Exotic Marigold Hotel,2015,Action|Comedy|Drama,122,6.6,John Madden,Ol Parker,Judi Dench|Maggie Smith,1275
 The Rundown,2003,Action|Adventure|Comedy|Thriller,104,6.7,Peter Berg,R.J. Stewart,Dwayne Johnson|Seann William Scott,1280
@@ -60,7 +86,9 @@ The Pursuit of Happyness,2006,Action|Biography|Drama,117,8.0,Gabriele Muccino,St
 The Loft,2014,Action|Mystery|Romance|Thriller,108,6.3,Erik Van Looy,Bart De Pauw,James Marsden|Karl Urban|Wentworth Miller,1362
 The Lazarus Project,2008,Action|Drama|Horror|Mystery|Thriller,100,6.2,John Glenn,John Glenn,Brooklynn Proulx|Paul Walker|Piper Perabo,1370
 The Kingdom,2007,Action|Drama|Thriller,110,7.1,Peter Berg,Matthew Michael Carnahan,Chris Cooper|Jamie Foxx|Jennifer Garner,1378
+The Incredible Hulk,2008,Action|Adventure|Sci-Fi,112,6.8,Louis Leterrier,Zak Penn,Edward Norton|Liv Tyler,1394
 The Hunger Games,2012,Action|Adventure|Drama|Sci-Fi|Thriller,142,7.2,Gary Ross,Gary Ross,Jennifer Lawrence|Josh Hutcherson,1408
+The Frozen Ground,2013,Action|Biography|Crime|Drama|History,105,6.4,Scott Walker,Scott Walker,John Cusack|Nicolas Cage|Vanessa Hudgens,1442
 The Double,2013,Action|Comedy|Drama|Thriller,93,6.5,Richard Ayoade,Fyodor Dostoevsky,Jesse Eisenberg|Mia Wasikowska,1474
 The Debt,2010,Action|Drama|Thriller,113,6.9,John Madden,Matthew Vaughn,Helen Mirren|Sam Worthington,1488
 The Color of Magic,2008,Action|Adventure|Comedy|Family|Fantasy,0,7.1,David Jason,,Tim Curry,1502
@@ -68,38 +96,57 @@ The Class of 92,2013,Action|Documentary|Sport,99,8.1,Benjamin Turner,David Beckh
 The Brothers Bloom,2008,Action|Adventure|Comedy|Drama|Romance,114,6.8,Rian Johnson,Rian Johnson,Adrien Brody|Mark Ruffalo|Rachel Weisz,1519
 The Best Exotic Marigold Hotel,2011,Action|Comedy|Drama|Romance,124,7.3,John Madden,Ol Parker,Bill Nighy|Judi Dench|Maggie Smith,1537
 The Bachelor Weekend,2013,Action|Comedy,94,6.1,John Butler,John Butler,Andrew Scott|Hugh O'Conor|Peter McDonald,1542
+Testament of Youth,2014,Action|Biography|Drama|History|War,129,7.3,James Kent,Vera Brittain,Alicia Vikander|Kit Harington|Taron Egerton,1564
 Terminator Salvation,2009,Action|Adventure|Drama|Sci-Fi|Thriller,115,6.6,McG,John Brancato,Anton Yelchin|Christian Bale|Sam Worthington,1565
 Superman vs. The Elite,2012,Action|Animation|Sci-Fi,76,7.1,Michael Chang,Jerry Siegel,George Newbern|Pauley Perrette,1587
 Submarine,2010,Action|Comedy|Drama|Romance,97,7.3,Richard Ayoade,Richard Ayoade,Craig Roberts|Paddy Considine|Sally Hawkins,1596
+Sky High,2005,Action|Adventure|Comedy|Family|Sci-Fi,100,6.2,Mike Mitchell,Paul Hernandez,Kelly Preston|Kurt Russell,1659
+Shrek Forever After,2010,Action|Adventure|Animation|Comedy|Family,93,6.3,Mike Mitchell,William Steig,Cameron Diaz|Mike Myers,1673
 Shoot 'Em Up,2007,Action|Comedy|Crime|Thriller,86,6.7,Michael Davis,Michael Davis,Clive Owen|Monica Bellucci|Paul Giamatti,1678
 Shame,2011,Action|Drama,101,7.2,Steve McQueen,Steve McQueen,Carey Mulligan|Michael Fassbender,1686
 Seve the Movie,2014,Action|Drama|Sport,124,7.1,John-Paul Davidson,Tom Hodgson,José Luis Gutiérrez|José Navar|Tiger Woods,1693
+School of Rock,2003,Action|Comedy|Family|Music,108,7.1,Richard Linklater,Mike White,Jack Black|Joan Cusack|Mike White,1706
 Rosewater,2014,Action|Biography|Drama,103,6.6,Jon Stewart,Jon Stewart,Gael García Bernal|Kim Bodnia,1731
 Road to Paloma,2014,Action|Drama|Thriller,91,6.1,Jason Momoa,Jason Momoa,Jason Momoa|Robert Homer Mollohan,1747
 Quarantine,2008,Horror|Sci-Fi|Thriller,89,6.0,John Erick Dowdle,John Erick Dowdle,Jennifer Carpenter|Steve Harris,1788
 Proof,2005,Action|Drama|Mystery,100,6.8,John Madden,David Auburn,Anthony Hopkins|Gwyneth Paltrow,1799
+Pride,2014,Action|Biography|Comedy|Drama|History,119,7.8,Matthew Warchus,Stephen Beresford,Bill Nighy|Dominic West|Imelda Staunton,1809
+Now You See Me,2013,Action|Crime|Mystery|Thriller,115,7.3,Louis Leterrier,Ed Solomon,Common|Jesse Eisenberg,1882
 Nightcrawler,2014,Action|Crime|Drama|Thriller,118,7.9,Dan Gilroy,Dan Gilroy,Bill Paxton|Jake Gyllenhaal|Rene Russo,1892
+My Old Lady,2014,Action|Comedy|Drama|Romance,107,6.4,Israel Horovitz,Israel Horovitz,Kevin Kline|Kristin Scott Thomas|Maggie Smith,1913
 Men in Black II,2002,Action|Adventure|Comedy|Family|Fantasy,88,6.1,Barry Sonnenfeld,Lowell Cunningham,Tommy Lee Jones|Will Smith,1961
 Men in Black 3,2012,Action|Adventure|Comedy|Family|Fantasy,0,6.8,Barry Sonnenfeld,Etan Cohen,Josh Brolin|Tommy Lee Jones|Will Smith,1962
 Marley,2012,Action|Biography|Documentary|Music,144,8.0,Kevin Macdonald,Bob Marley,Rita Marley,1979
+Kingsman: The Secret Service,2014,Action|Adventure|Comedy|Crime|Thriller,129,7.7,Matthew Vaughn,Jane Goldman,Colin Firth|Taron Egerton,2069
 "I, Robot",2004,Action|Crime|Drama|Mystery|Sci-Fi,115,7.1,Alex Proyas,Jeff Vintar,Bridget Moynahan|Will Smith,2171
 I Am Legend,2007,Action|Drama|Horror|Sci-Fi|Thriller,101,7.2,Francis Lawrence,Mark Protosevich,Alice Braga|Will Smith,2180
 Hitch,2005,Action|Comedy|Romance,118,6.6,Andy Tennant,Kevin Bisch,Eva Mendes|Kevin James|Will Smith,2213
 Hancock,2008,Action|Crime|Drama|Fantasy|Sci-Fi,92,6.4,Peter Berg,Vincent Ngo,Charlize Theron|Jason Bateman|Will Smith,2249
+Freedom Writers,2007,Action|Biography|Crime|Drama,123,7.5,Richard LaGravenese,Richard LaGravenese,Hilary Swank|Imelda Staunton,2315
 Focus,2015,Action|Comedy|Crime|Drama|Romance,105,6.6,Glenn Ficarra,Glenn Ficarra,Margot Robbie|Will Smith,2330
+Filmage: The Story of Descendents/All,2013,Action|Biography|Documentary|Music,90,8.3,Deedle Lacour,Matt Riggle,Bill Stevenson|Karl Alvarez|Milo Aukerman,2349
 Fastest,2011,Action|Documentary|Sport,111,7.8,Mark Neale,Mark Neale,Ewan McGregor|Jorge Lorenzo|Valentino Rossi,2353
+Dope,2015,Action|Comedy|Crime|Drama|Music,103,7.2,Rick Famuyiwa,Rick Famuyiwa,Kiersey Clemons|Shameik Moore|Tony Revolori,2410
 Don't Stop Believin': Everyman's Journey,2012,Action|Documentary|Music,113,6.9,Ramona S. Diaz,Ramona S. Diaz,Arnel Pineda|Jonathan Cain|Neal Schon,2412
 Bad Boys II,2003,Action|Comedy|Crime|Drama|Thriller,147,6.6,Michael Bay,George Gallo,Martin Lawrence|Will Smith,2655
 An Adventure in Space and Time,2013,Action|Biography|Drama|History,90,8.3,Terry McDonough,Mark Gatiss,David Bradley|Roger May|Ross Gurney-Randall,2691
 Ali,2001,Action|Biography|Drama|History|Sport,157,6.8,Michael Mann,Gregory Allen Howard,Jamie Foxx|Will Smith,2707
 13 Sins,2014,Action|Horror|Thriller,93,6.3,Daniel Stamm,David Birke,Devon Graye|Mark Webber,2775
+G.I. Joe: Retaliation,2013,Action|Adventure|Sci-Fi|Thriller,110,5.8,they are forced to contend with threats from within the government that jeopardize their very existence.,Jon M. Chu,Channing Tatum|Dwayne Johnson|Rhett Reese,2917
+Amityville: The Awakening,2017,Horror|Thriller,85,4.9,Franck Khalfoun,Franck Khalfoun,Bella Thorne|Jennifer Jason Leigh|Mckenna Grace,3173
 Edgar Allan Poe's Lighthouse Keeper,2016,Action|Horror,88,4.3,Benjamin Cooper,Benjamin Cooper,Matt O'Neill|Vernon Wells,3250
+Kill Command,2016,Action|Horror|Sci-Fi|Thriller,99,5.7,Steven Gomez,Steven Gomez,David Ajala|Mike Noble|Vanessa Kirby,3348
+Russell Madness,2015,Action|Drama|Family|Sport,92,4.3,Robert Vince,Aaron Brooks,David Milchard|Sean Giambrone,3368
 A Good Man,2014,Action|Crime|Thriller,100,4.7,Keoni Waxman,Jason Rainwater,Iulia Verdes|Steven Seagal|Victor Webster,3369
+Notes from the Field,2018,Drama,90,6.0,Kristi Zea,Anna Deavere Smith,Anna Deavere Smith,3419
 From What Is Before,2014,Drama,338,7.9,Lav Diaz,Lav Diaz,Hazel Orencio|Perry Dizon|Roeder,3519
 Gringo: The Dangerous Life of John McAfee,2016,Crime|Documentary,97,6.7,Nanette Burstein,Allison Adonizio,John McAfee,3524
 Strokes of Genius,2018,Documentary,98,8.2,Andrew Douglas,Yves Allegro,Björn Borg,3636
+Billionaire Boys Club,2018,Biography|Drama|Thriller,108,5.6,James Cox,James Cox,Ansel Elgort|Kevin Spacey|Taron Egerton,3645
 Iliza: Elder Millennial,2018,Comedy,0,6.6,Steve Paley,Iliza Shlesinger,Hunter Hill|Iliza Shlesinger,3652
+Hot Summer Nights,2017,Drama,107,6.6,Elijah Bynum,Elijah Bynum,Alex Roe|Maika Monroe|Timothée Chalamet,3660
 The Devil and Father Amorth,2017,Documentary|Horror,68,5.0,William Friedkin,William Friedkin,Gabriele Amorth|Robert Barron|William Friedkin,3697
+The Babysitter,2017,Comedy|Horror,85,6.3,McG,Brian Duffield,Judah Lewis|Robbie Amell|Samara Weaving,3714
 Andover,2018,Comedy|Drama|Romance|Sci-Fi,91,7.1,Scott Perlman,Scott Perlman,Jennifer Finnigan|Jonathan Silverman|Richard Kind,3722
 The After Party,2018,Comedy|Music,120,5.6,Ian Edelman,Ian Edelman,Harrison Holzer|Jordan Rock|Kyle,3793
 The Land Before Time XII: The Great Day of the Flyers,2006,Adventure|Animation|Family|Musical,77,6.2,Charles Grosvenor,John Loy,Aria Noelle Curzon|John Ingle|Nick Price,3820

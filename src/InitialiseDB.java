@@ -36,13 +36,12 @@ public class InitialiseDB {
             String query = "";
             // Read DDL file line by line
             while ((line = reader.readLine()) != null) {
-                String regexString = "--.*|/\\*(?:(?:(?!\\*/)[\\s\\S])*\\*/)?";
+                String regexString = "--.*|/\\*(?:(?:(?!\\*/)[\\s\\S])*\\*/)?"; //TODO - make --work
                 query += line.replaceAll(regexString, ""); // gets rid of all comments in the file
                 // Check if line ends with semicolon, indicating end of SQL statement
                 if (line.trim().endsWith(";")) {
                     // Execute SQL statement
                     statement.execute(query);
-                    System.out.println(query);
                     query = ""; // Reset StringBuilder
                 }
 
@@ -68,7 +67,7 @@ public class InitialiseDB {
 
     public static void main(String[] args) {
         String dbFilePath = "schemas/schema.db";
-        String ddlFilePath = args[0];
+        String ddlFilePath = "schemas/schema.sql";
 
         InitialiseDB ddlReader = new InitialiseDB(dbFilePath);
         ddlReader.createTablesFromDDL(ddlFilePath);
