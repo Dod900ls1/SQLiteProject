@@ -1,0 +1,158 @@
+name,gender,birthday,directorID,id,occupation
+paul rodriguez jr,male,1984-12-31,10004,36,film_director
+"sammy davis, jr.",male,1925-12-08,10005,36,film_director
+"eduardo cojuangco, jr.",male,1935-06-10,10006,36,film_director
+"ricardo medina, jr.",male,1977-07-02,10008,36,film_director
+donald trump jr.,male,1977-12-31,10010,36,film_director
+"robert f. kennedy, jr.",male,1954-01-17,10011,36,film_director
+"nelson frazier, jr.",male,1971-02-14,10014,36,film_director
+cuba gooding jr,male,1968-01-02,10015,36,film_director
+"miguel a. nunez, jr.",male,1964-08-11,10016,36,film_director
+"herbert allen, jr.",male,1940,10017,36,film_director
+robert downey jr,male,1965-04-04,10018,36,film_director
+lillo brancato jr,male,1976-03-30,10019,36,film_director
+"tyrone power, jr.",male,1959-01-22,10020,36,film_director
+ross bagdasarian jr,male,1949-10-25,10021,36,film_director
+galen weston jr,male,1972-12-19,10022,36,film_director
+al unser jr,male,1962-04-19,10023,36,film_director
+"henry louis gates, jr.",male,1950-09-16,10025,36,film_director
+desi arnaz jr,male,1953-01-19,10027,36,film_director
+"mike dunleavy, jr.",male,1980-09-15,10028,36,film_director
+"ted ginn, jr.",male,1985-04-12,10029,36,film_director
+"isiah whitlock, jr.",male,1954-09-13,10030,36,film_director
+"gary matthews, jr.",male,1974-08-25,10031,36,film_director
+"jim gallagher, jr.",male,1961-03-24,10032,36,film_director
+harold ford jr,male,1970-05-11,10033,36,film_director
+john carroll lynch,male,1963-08-01,10036,65,film_director
+aaron sorkin,male,1961-06-09,10038,67,film_director
+zak bagans,male,1977-04-05,10040,89,film_director
+alex garland,male,1970,10042,106,film_director
+brian johnson,male,1947-10-05,10043,109,film_director
+armando iannucci,male,1963-11-28,10052,170,film_director
+bo burnham,male,1990-08-21,10053,180,film_director
+francis lee,male,1944-04-29,10060,228,film_director
+dan gilroy,male,1959-06-24,10061,231,film_director
+danny strong,male,1974-06-06,10071,264,film_director
+mark williams,male,1959-08-22,10087,326,film_director
+sean foley,male,1964-11-21,10096,361,film_director
+byron maxwell,male,1988-02-23,10106,415,film_director
+jordan peele,male,1979-02-21,10113,447,film_director
+peter bergman,male,1953-06-11,10118,475,film_director
+mike mills,male,1958-12-17,10121,478,film_director
+john madden,male,1936-04-10,10123,482,film_director
+ewan mcgregor,male,1971-03-31,10135,511,film_director
+peter bergman,male,1953-06-11,10140,529,film_director
+nate parker,male,1979-11-18,10143,532,film_director
+keira knightley,female,1985-03-26,10165,607,film_director
+ben jones,male,1941-08-30,10168,615,film_director
+gary rossington,male,1951-12-04,10169,616,film_director
+anthony russo,male,1970,10178,633,film_director
+robert carlyle,male,1961-04-14,10189,675,film_director
+leigh whannell,male,1977-01-17,10199,709,film_director
+john madden,male,1936-04-10,10217,761,film_director
+billy ray cyrus,male,1961-08-25,10236,869,film_director
+james vanderbilt,male,1975-11-17,10246,917,film_director
+patrick swayze,male,1952-08-18,10247,922,film_director
+chris evans,male,1966-04-01,10249,929,film_director
+akiva goldsman,male,1962-07-07,10304,1074,film_director
+jemaine clement,male,1974-01-10,10310,1090,film_director
+jay mcgraw,male,1979-09-12,10314,1108,film_director
+tim mcgraw,male,1967-05-01,10315,1108,film_director
+aaron mcgruder,male,1974-05-29,10316,1108,film_director
+jeremy mcgrath,male,1971-11-19,10317,1108,film_director
+tracy mcgrady,male,1979-05-24,10318,1108,film_director
+bernard mcguirk,male,1957-10-26,10319,1108,film_director
+carol mcgiffin,female,1960-02-18,10320,1108,film_director
+paul mcguinness,male,1951-06-17,10321,1108,film_director
+katie mcgrath,female,1983-10-24,10322,1108,film_director
+tom mcgowan,male,1959-07-26,10325,1108,film_director
+ted mcginley,male,1958-05-30,10327,1108,film_director
+bob mcgrath,male,1932-06-13,10328,1108,film_director
+ehren mcghehey,male,1976-11-29,10329,1108,film_director
+conor mcgregor,male,1988-07-14,10330,1108,film_director
+scott mcgillivray,male,1978-04-07,10331,1108,film_director
+patrick mcgovern,male,1937-08-11,10333,1108,film_director
+john c. mcginley,male,1959-08-03,10334,1108,film_director
+javale mcgee,male,1988-01-19,10335,1108,film_director
+kelly mcgillis,female,1957-07-09,10336,1108,film_director
+blake mcgrath,male,1983-11-21,10338,1108,film_director
+paul mcgann,male,1959-11-14,10339,1108,film_director
+mike mcgill,male,1964,10340,1108,film_director
+fred mcgriff,male,1963-10-31,10341,1108,film_director
+mark mcgrath,male,1968-03-15,10342,1108,film_director
+paul mcgillion,male,1969-01-05,10343,1108,film_director
+rob thomas,male,1972-02-14,10350,1126,film_director
+david harewood,male,1965-12-08,10366,1163,film_director
+miles teller,male,1987-02-20,10382,1203,film_director
+jay mcgraw,male,1979-09-12,10386,1212,film_director
+tim mcgraw,male,1967-05-01,10387,1212,film_director
+aaron mcgruder,male,1974-05-29,10388,1212,film_director
+jeremy mcgrath,male,1971-11-19,10389,1212,film_director
+tracy mcgrady,male,1979-05-24,10390,1212,film_director
+bernard mcguirk,male,1957-10-26,10391,1212,film_director
+carol mcgiffin,female,1960-02-18,10392,1212,film_director
+paul mcguinness,male,1951-06-17,10393,1212,film_director
+katie mcgrath,female,1983-10-24,10394,1212,film_director
+tom mcgowan,male,1959-07-26,10397,1212,film_director
+ted mcginley,male,1958-05-30,10399,1212,film_director
+bob mcgrath,male,1932-06-13,10400,1212,film_director
+ehren mcghehey,male,1976-11-29,10401,1212,film_director
+conor mcgregor,male,1988-07-14,10402,1212,film_director
+scott mcgillivray,male,1978-04-07,10403,1212,film_director
+patrick mcgovern,male,1937-08-11,10405,1212,film_director
+john c. mcginley,male,1959-08-03,10406,1212,film_director
+javale mcgee,male,1988-01-19,10407,1212,film_director
+kelly mcgillis,female,1957-07-09,10408,1212,film_director
+blake mcgrath,male,1983-11-21,10410,1212,film_director
+paul mcgann,male,1959-11-14,10411,1212,film_director
+mike mcgill,male,1964,10412,1212,film_director
+fred mcgriff,male,1963-10-31,10413,1212,film_director
+mark mcgrath,male,1968-03-15,10414,1212,film_director
+paul mcgillion,male,1969-01-05,10415,1212,film_director
+nat faxon,male,1975,10428,1234,film_director
+josh gordon,male,1991-04-13,10436,1260,film_director
+john madden,male,1936-04-10,10442,1275,film_director
+peter bergman,male,1953-06-11,10444,1280,film_director
+erik van looy,male,1962-04-26,10480,1362,film_director
+john glenn,male,1921-07-18,10483,1370,film_director
+peter bergman,male,1953-06-11,10486,1378,film_director
+gary rossington,male,1951-12-04,10499,1408,film_director
+richard ayoade,male,1977-06-12,10533,1474,film_director
+john madden,male,1936-04-10,10537,1488,film_director
+david jason,male,1940-02-02,10546,1502,film_director
+brian johnson,male,1947-10-05,10549,1519,film_director
+john madden,male,1936-04-10,10555,1537,film_director
+john butler,male,1975-04-01,10558,1542,film_director
+jay mcgraw,male,1979-09-12,10567,1565,film_director
+tim mcgraw,male,1967-05-01,10568,1565,film_director
+aaron mcgruder,male,1974-05-29,10569,1565,film_director
+jeremy mcgrath,male,1971-11-19,10570,1565,film_director
+tracy mcgrady,male,1979-05-24,10571,1565,film_director
+bernard mcguirk,male,1957-10-26,10572,1565,film_director
+carol mcgiffin,female,1960-02-18,10573,1565,film_director
+paul mcguinness,male,1951-06-17,10574,1565,film_director
+katie mcgrath,female,1983-10-24,10575,1565,film_director
+tom mcgowan,male,1959-07-26,10578,1565,film_director
+ted mcginley,male,1958-05-30,10580,1565,film_director
+bob mcgrath,male,1932-06-13,10581,1565,film_director
+ehren mcghehey,male,1976-11-29,10582,1565,film_director
+conor mcgregor,male,1988-07-14,10583,1565,film_director
+scott mcgillivray,male,1978-04-07,10584,1565,film_director
+patrick mcgovern,male,1937-08-11,10586,1565,film_director
+john c. mcginley,male,1959-08-03,10587,1565,film_director
+javale mcgee,male,1988-01-19,10588,1565,film_director
+kelly mcgillis,female,1957-07-09,10589,1565,film_director
+blake mcgrath,male,1983-11-21,10591,1565,film_director
+paul mcgann,male,1959-11-14,10592,1565,film_director
+mike mcgill,male,1964,10593,1565,film_director
+fred mcgriff,male,1963-10-31,10594,1565,film_director
+mark mcgrath,male,1968-03-15,10595,1565,film_director
+paul mcgillion,male,1969-01-05,10596,1565,film_director
+michael chang,male,1972-02-22,10602,1587,film_director
+richard ayoade,male,1977-06-12,10608,1596,film_director
+charles michael davis,male,1984-12-01,10642,1678,film_director
+steve mcqueen,male,1930-03-24,10646,1686,film_director
+jon stewart,male,1962-11-28,10662,1731,film_director
+jason momoa,male,1979-08-01,10669,1747,film_director
+john madden,male,1936-04-10,10691,1799,film_director
+dan gilroy,male,1959-06-24,10726,1892,film_director
