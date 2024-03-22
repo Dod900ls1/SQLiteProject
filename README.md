@@ -1,10 +1,41 @@
-Random shait has been created to save the UML diagram on draw.io
+## Compile instructions 
 
+ chmod +x run.sh 
+./run.sh  
+in terminal 
 
-TODO - specify primary keys in my diagram
+## Actors2_cleaned.csv/Directors2_cleaned.csv
 
+name: Names of the actors.
+gender: Gender of the actors.
+birthday: Birthdate of the actors.
+actorID: Unique identifier for each actor.
+id: Another identifier for each actor.
+occupation: Occupations or professions of the actors.
+death: Date of death of the actors (if applicable).
+nationality: Nationality of the actors.
+net_worth: Net worth of the actors.
+is_alive: Indicates whether the actor is alive (True/False).
+age: Age of the actors.
+height: Height of the actors
 
-## Oscar ceremony 
+## Hydra-Movie-Scrape.csv
+
+Title: Title of the movie.
+Year: Release year of the movie.
+Summary: Brief summary or description of the movie.
+Short Summary: A shorter version of the summary.
+Genres: Genres of the movie.
+IMDB ID: IMDB identifier for the movie.
+Runtime: Duration of the movie in minutes.
+YouTube Trailer: YouTube link to the trailer of the movie.
+Rating: Rating of the movie.
+Movie Poster: Link to the movie poster.
+Director: Director(s) of the movie.
+Writers: Writer(s) of the movie.
+Cast: Cast members of the movie
+
+## oscar.csv 
 
 Ceremony: The year of the ceremony.
 Year: The year the film was released.
